@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify creating booking - Direct</description>
+   <name>Automation POC TC1</name>
+   <tag>UAT</tag>
+   <comment></comment>
+   <testCaseGuid>97b02646-6935-49b0-8473-e2285cd6f8d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>SCRIPT_VARIABLE</type>
+      <value>null</value>
+      <variableId>31ce5ace-8cdd-44eb-b4ed-cb9cf6f9b040</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31ce5ace-8cdd-44eb-b4ed-cb9cf6f9b040</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
