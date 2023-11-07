@@ -28,25 +28,28 @@ WebUI.navigateToUrl('https://uat.www-intrepidtravel-com.intrepidgroup.site/en')
 
 WebUI.authenticate('https://uat.www-intrepidtravel-com.intrepidgroup.site/en', 'intrepid', 'Cbq4JOrG2n2YRrD%Ts4k', 5)
 
-WebUI.waitForElementVisible(findTestObject('Page_Small Group Tours  Travel, Big Adventures  Intrepid Travel EN/input_concat(It, , s time for a new journey)_autocomplete__input'), 
+WebUI.waitForElementVisible(findTestObject('null'), 
     0)
 
-WebUI.click(findTestObject('Page_Small Group Tours  Travel, Big Adventures  Intrepid Travel EN/span_Search'))
+WebUI.setText(findTestObject('null'), 
+    'TVSF')
 
-WebUI.waitForElementPresent(findTestObject('Page_Search  Intrepid Travel EN/span_1027 trips found'), 0)
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Page_Search  Intrepid Travel EN/input_Discover your next adventure_autocomplete__input'))
+WebUI.waitForElementPresent(findTestObject('null'), 0)
 
-WebUI.setText(findTestObject('Page_Search  Intrepid Travel EN/input_Discover your next adventure_autocomplete__input'), 
-    'GMDD')
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Page_Search  Intrepid Travel EN/span_Search'))
+WebUI.setText(findTestObject('null'), 
+    'TVSF')
 
-WebUI.waitForElementVisible(findTestObject('Page_Search  Intrepid Travel EN/span_1 trip found'), 0)
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Page_Search  Intrepid Travel EN/div_Ultimate Galapagos Central Islands (Grand Daphne)'))
+WebUI.waitForElementVisible(findTestObject('null'), 10)
 
-WebUI.waitForElementVisible(findTestObject('Page_Ultimate Galapagos Central Islands (Grand Daphne)  Intrepid Travel EN/Trip Page'), 
+WebUI.click(findTestObject('null'))
+
+WebUI.waitForElementVisible(findTestObject('null'), 
     0)
 
 WebUI.delay(10)
