@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Search</name>
+   <tag></tag>
+   <elementGuidId>3fba155f-86f4-4acc-a424-b5af3a4da272</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.find-trip__button.button--special</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/main/div/div/div[2]/div/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bbae35eb-0d0a-4b8e-ac75-acb166d203ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button find-trip__button button--special</value>
+      <webElementGuid>1d9897b6-c05d-449b-839e-4fc65f26c95f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>autocomplete-button</value>
+      <webElementGuid>a90ada10-e3aa-4b81-81fd-5e25d0363019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>1940f3ec-c7d1-4570-a5f5-2fda9962bafa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search     </value>
+      <webElementGuid>f989239e-efc3-4413-80bd-1f21394eff40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/main[1]/div[1]/div[@class=&quot;banner banner--xs-8-11 banner--sm-4-3 banner--md-7-3 banner--lg-7-3 banner--xl-7-3&quot;]/div[@class=&quot;banner__content&quot;]/div[@class=&quot;l-container u-height--full&quot;]/div[@class=&quot;home-banner&quot;]/div[@class=&quot;home-banner__content&quot;]/div[@class=&quot;find-trip&quot;]/button[@class=&quot;button find-trip__button button--special&quot;]</value>
+      <webElementGuid>a18e5bce-9be3-4036-9267-89258dc413ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/main/div/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>b309a11e-a69c-4ded-9e88-d7fb4c1e1558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear date'])[1]/following::button[1]</value>
+      <webElementGuid>82abfa30-1d68-43ee-a9dd-943febc970fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec'])[1]/following::button[2]</value>
+      <webElementGuid>0a34b763-8df8-45a3-a3cd-fbc39e1e9872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creating positive change through the joy of travel'])[1]/preceding::button[1]</value>
+      <webElementGuid>843d706e-d755-4720-b88b-2edee4d9948a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>7d44d6d3-f773-4e95-a8ae-19d93127e18e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Search     ' or . = 'Search     ')]</value>
+      <webElementGuid>22d8ff40-210f-43e9-967e-3febb702b7c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

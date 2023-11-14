@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('POC/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('IntrepidHomePage/SearchBox'), 'GMDD')
+
+WebUI.enableSmartWait()
+
+WebUI.click(findTestObject('IntrepidHomePage/button_Search'))
+
+WebUI.waitForPageLoad(0)
+
+WebUI.closeBrowser()
+

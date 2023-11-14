@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('POC/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.scrollToElement(findTestObject('IntrepidHomePage/a_Agent login'), 10)
+
+WebUI.click(findTestObject('IntrepidHomePage/a_Agent login'))
+
+WebUI.setText(findTestObject('Intrepid Group Agent Portal/input_Agent_Email_email'), 'ruchira.weerakkody@intrepidtravel.com')
+
+WebUI.setEncryptedText(findTestObject('Intrepid Group Agent Portal/input_Agent_Password_password'), 'tboMEiX3McbIebu5hwc9nQ==')
+
+WebUI.click(findTestObject('Intrepid Group Agent Portal/Agent_button_Log In'))
+
+WebUI.enableSmartWait()
+

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Automation POC TC2</name>
-   <tag></tag>
+   <name>AgentLogin</name>
+   <tag>UAT, DEV</tag>
    <comment></comment>
-   <testCaseGuid>e8720e14-7fcb-432b-8383-63d513a7d354</testCaseGuid>
+   <testCaseGuid>a8cb5550-cefb-45dd-aab6-737d8afdb6c9</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Discover your next adventure_autocomplete__input</name>
+   <name>SearchBox</name>
    <tag></tag>
-   <elementGuidId>742a43f4-6428-4fab-89df-f2179b330e36</elementGuidId>
+   <elementGuidId>bd07d758-9703-477d-a76b-aee280e441c4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__layout']/div/div/main/div[3]/div/div/form/div/div/div/input</value>
+         <value>//div[@id='__layout']/div/main/div/div/div[2]/div/div/div/div/div/div/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4f95d47a-c23e-4837-ad32-33b45b44582e</webElementGuid>
+      <webElementGuid>2d82853c-8453-404b-8787-496b767e8020</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Where do you want to go?</value>
-      <webElementGuid>da269d53-1753-4fab-83af-fcf15948c8e2</webElementGuid>
+      <value>Anywhere</value>
+      <webElementGuid>db6944c9-e288-45c0-8bdc-4d8987d63e25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Search for a Destination, Trip name or Tour code</value>
-      <webElementGuid>3d4da207-27fd-4613-9455-c73c2934f5d8</webElementGuid>
+      <webElementGuid>fc07388e-ea07-4949-9f67-7361c34aa024</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-cy</name>
       <type>Main</type>
       <value>autocomplete__input</value>
-      <webElementGuid>b0874f1b-cdd4-4bfb-826f-ab141db221f3</webElementGuid>
+      <webElementGuid>40ae3595-c931-4d94-a3a9-3ec3f15fb07d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>2a6be554-869b-46ab-b1b8-015a2e6f425d</webElementGuid>
+      <webElementGuid>4bfee86c-aa55-482e-96a4-71d4178dcb55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3e2e1997-f438-4624-afdf-9451ef6eec70</webElementGuid>
+      <webElementGuid>0307c04d-d6fa-4017-abf3-142a7ef44a72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,23 +70,23 @@
       <name>class</name>
       <type>Main</type>
       <value>autocomplete__input</value>
-      <webElementGuid>fa97e1e5-daf9-4fbe-b504-9152f516b02f</webElementGuid>
+      <webElementGuid>00b359e3-87d0-49ea-99b0-bc76c4ddfecf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__layout&quot;)/div[1]/div[1]/main[1]/div[@class=&quot;l-container u-margin-top--2 md:u-margin-top--4&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--12-col-desktop l-grid__cell--6-col-tablet l-grid__cell--4-col-phone&quot;]/form[1]/div[@class=&quot;search-autocomplete&quot;]/div[@class=&quot;autocomplete&quot;]/div[@class=&quot;autocomplete__input-wrapper&quot;]/input[@class=&quot;autocomplete__input&quot;]</value>
-      <webElementGuid>594146a9-28ff-4e2f-b8ee-2eda1937dab7</webElementGuid>
+      <value>id(&quot;__layout&quot;)/div[1]/main[1]/div[1]/div[@class=&quot;banner banner--xs-8-11 banner--sm-4-3 banner--md-7-3 banner--lg-7-3 banner--xl-7-3&quot;]/div[@class=&quot;banner__content&quot;]/div[@class=&quot;l-container u-height--full&quot;]/div[@class=&quot;home-banner&quot;]/div[@class=&quot;home-banner__content&quot;]/div[@class=&quot;find-trip&quot;]/div[@class=&quot;find-trip__autocomplete&quot;]/div[@class=&quot;autocomplete&quot;]/div[@class=&quot;autocomplete__input-wrapper&quot;]/input[@class=&quot;autocomplete__input&quot;]</value>
+      <webElementGuid>ce8528c3-d2af-421d-a27d-e40a2a9d61af</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__layout']/div/div/main/div[3]/div/div/form/div/div/div/input</value>
-      <webElementGuid>78dbfe32-c926-4a8a-af45-6d25429d7c95</webElementGuid>
+      <value>//div[@id='__layout']/div/main/div/div/div[2]/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>62b6a005-8d37-4abc-8b1a-c2dab0b9386d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>0cda21d1-5622-45f2-8497-c1e57ec2fc14</webElementGuid>
+      <webElementGuid>fd385c03-2587-426c-9c86-ca45b7c9d673</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = 'Where do you want to go?']</value>
-      <webElementGuid>aab6cdc6-8be4-4b59-bded-cfae78bd04e2</webElementGuid>
+      <value>//input[@placeholder = 'Anywhere']</value>
+      <webElementGuid>c51cfaca-71fc-4dbd-88fc-57cc03e5598a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
