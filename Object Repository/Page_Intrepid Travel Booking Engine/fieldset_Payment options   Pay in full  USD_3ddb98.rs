@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldset_Payment options   Pay in full  USD_3ddb98</name>
+   <tag></tag>
+   <elementGuidId>36653df9-6df1-4303-895c-2b3ee8b6c892</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>fieldset</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='transaction_form']/div/div/div/div/div/div/div/fieldset</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fieldset</value>
+      <webElementGuid>a9f95b55-8271-4c58-ac6f-c8466c3dcf73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Payment options   Pay in full  USD $3,353.00   Pay a minimum deposit USD $433.00       </value>
+      <webElementGuid>32de897b-e691-45b5-b550-469fb8bdd021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transaction_form&quot;)/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--8-col l-grid__cell--order-2-tablet l-grid__cell--order-2-phone&quot;]/div[@class=&quot;card card--large&quot;]/div[@class=&quot;card__content&quot;]/div[@class=&quot;card__text&quot;]/div[@class=&quot;card__section card__section--content&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--12-col&quot;]/fieldset[1]</value>
+      <webElementGuid>57392da5-dd2f-4eb0-81c5-8c5198a4f04b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='transaction_form']/div/div/div/div/div/div/div/fieldset</value>
+      <webElementGuid>eadb543c-1b67-47c4-a342-420c20ebd6e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment'])[2]/following::fieldset[1]</value>
+      <webElementGuid>274f40b4-b26e-484e-bcba-e7a404337ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment'])[1]/following::fieldset[1]</value>
+      <webElementGuid>7bfdd58e-d8d6-498a-90ae-b411964a8587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset</value>
+      <webElementGuid>3d59210c-d5f9-4268-82ee-1942ce3972a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fieldset[(text() = 'Payment options   Pay in full  USD $3,353.00   Pay a minimum deposit USD $433.00       ' or . = 'Payment options   Pay in full  USD $3,353.00   Pay a minimum deposit USD $433.00       ')]</value>
+      <webElementGuid>8730e47e-a556-4d36-9729-a4090d72b743</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

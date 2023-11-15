@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_pYour browser does not support iframes.p</name>
+   <tag></tag>
+   <elementGuidId>fbfeafdd-b177-4bb3-a89a-7ec2afa68e66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>iframe.js-iframe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prebooking-payment']/div[3]/div/span/iframe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>b5c6c9f0-fd84-4c1d-9914-45482c916ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://checkoutshopper-test.adyen.com/checkoutshopper/securedfields/pub.v2.8015795649981265.aHR0cHM6Ly9ib29raW5ncy5pbnRyZXBpZHRyYXZlbC5jb20udWF0LmludGVybmFs.ZXcGa92vLjRGmdQU83MgafUfVp-ype2LoTClniYKN5A/4.5.1/securedFields.html?type=card&amp;d=aHR0cHM6Ly9ib29raW5ncy5pbnRyZXBpZHRyYXZlbC5jb20udWF0LmludGVybmFs</value>
+      <webElementGuid>c19c9f2b-f5fc-4f3a-b8b6-c035cc4592dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-iframe</value>
+      <webElementGuid>8c88f461-60db-4bc3-a3ea-9757d9a96e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Iframe for card number</value>
+      <webElementGuid>d8c2766c-3dcf-4e93-b1c9-289ccc0bfe0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>allowtransparency</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d12a6480-1f99-43c8-a944-4c8ead7200a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>referrerpolicy</name>
+      <type>Main</type>
+      <value>origin</value>
+      <webElementGuid>63549b68-03fb-4218-af4e-5f84174734d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;p>Your browser does not support iframes.&lt;/p></value>
+      <webElementGuid>11bc2f06-4c17-4221-ac91-bea83c532c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prebooking-payment&quot;)/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--12-col&quot;]/span[@class=&quot;card-payment__field&quot;]/iframe[@class=&quot;js-iframe&quot;]</value>
+      <webElementGuid>58bff5b2-de68-418c-a229-7f9c699df9bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prebooking-payment']/div[3]/div/span/iframe</value>
+      <webElementGuid>5de34906-091d-4b33-9806-f779d72721c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cardholder name'])[2]/following::iframe[1]</value>
+      <webElementGuid>cb8ca0c5-b722-4c39-b980-44052194ae1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cardholder name'])[1]/following::iframe[1]</value>
+      <webElementGuid>d21870c5-ed09-4f86-b796-6b2378913d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card number'])[1]/preceding::iframe[1]</value>
+      <webElementGuid>21401871-1292-4cda-b8f3-c91130ae04c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiry date'])[1]/preceding::iframe[2]</value>
+      <webElementGuid>b72cf2ee-f592-4225-aadc-cc57ee41ae65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='&lt;p>Your browser does not support iframes.&lt;/p>']/parent::*</value>
+      <webElementGuid>ca54726c-c095-49d1-8888-bdbb8bf8d7d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>9c6be1c4-cedf-4816-9f4b-b6d2dcd9ff04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://checkoutshopper-test.adyen.com/checkoutshopper/securedfields/pub.v2.8015795649981265.aHR0cHM6Ly9ib29raW5ncy5pbnRyZXBpZHRyYXZlbC5jb20udWF0LmludGVybmFs.ZXcGa92vLjRGmdQU83MgafUfVp-ype2LoTClniYKN5A/4.5.1/securedFields.html?type=card&amp;d=aHR0cHM6Ly9ib29raW5ncy5pbnRyZXBpZHRyYXZlbC5jb20udWF0LmludGVybmFs' and @title = 'Iframe for card number' and (text() = '&lt;p>Your browser does not support iframes.&lt;/p>' or . = '&lt;p>Your browser does not support iframes.&lt;/p>')]</value>
+      <webElementGuid>54e8138d-d540-4d38-a88f-379d98084403</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

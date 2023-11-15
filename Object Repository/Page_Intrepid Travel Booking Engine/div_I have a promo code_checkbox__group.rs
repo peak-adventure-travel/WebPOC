@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_I have a promo code_checkbox__group</name>
+   <tag></tag>
+   <elementGuidId>ef3c6dd0-2158-4235-92f7-7b77cde99448</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkbox__group</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='transaction_form']/div/div/div/div/div/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ecc30267-ee13-4342-891e-a669dc18aa08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox__group</value>
+      <webElementGuid>ecab9cda-36ca-41b4-8169-ad60456a10bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transaction_form&quot;)/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--8-col l-grid__cell--order-2-tablet l-grid__cell--order-2-phone&quot;]/div[@class=&quot;card card--large&quot;]/div[@class=&quot;card__content&quot;]/div[@class=&quot;card__text&quot;]/div[@class=&quot;card__section card__section--content&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--12-col&quot;]/div[@class=&quot;checkbox&quot;]/div[@class=&quot;checkbox__group&quot;]</value>
+      <webElementGuid>e56792a0-a99f-4bc1-9ec1-1c3d67cf693d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='transaction_form']/div/div/div/div/div/div/div/div[3]/div</value>
+      <webElementGuid>072a92dc-6017-432a-93fa-aa69f69736cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have a promo code'])[1]/following::div[2]</value>
+      <webElementGuid>c14f4415-0274-4605-8b20-0f7b1ec3fc29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CVV/CVC'])[1]/following::div[3]</value>
+      <webElementGuid>0f0090dc-6a65-44d6-a8df-b460481ed9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='terms and conditions'])[1]/preceding::div[1]</value>
+      <webElementGuid>d5074bf3-deef-434b-a7aa-226d40d2fe6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[3]/div</value>
+      <webElementGuid>22855136-2cf9-45db-8170-31b8131914db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

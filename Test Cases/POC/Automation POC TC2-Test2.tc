@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify creating booking - Direct</description>
+   <name>Automation POC TC2-Test2</name>
+   <tag>UAT</tag>
+   <comment></comment>
+   <testCaseGuid>58b57a1f-1af5-4c53-8b83-c2d6b9023bee</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>37671c9f-8179-49a7-b305-87b3c54d8606</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

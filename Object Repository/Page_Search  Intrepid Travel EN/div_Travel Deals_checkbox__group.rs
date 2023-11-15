@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Travel Deals_checkbox__group</name>
+   <tag></tag>
+   <elementGuidId>7dae2bd7-82b0-4114-bc4e-24959c7943ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.l-grid__cell.l-grid__cell--3-col.l-grid__cell--hide-phone.l-grid__cell--hide-tablet > div.search-filters > div.search-filters__filter > div.checkbox-filter > div.checkbox.u-margin-bottom--0 > div.checkbox__group</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/main/div[3]/div/div[5]/div[2]/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8791a98-4a04-4586-9087-5775c0c6d72d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox__group</value>
+      <webElementGuid>6f330fdd-0e6f-4696-8e4e-372b2932752f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[1]/main[1]/div[@class=&quot;l-container u-margin-top--2 md:u-margin-top--4&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--3-col l-grid__cell--hide-phone l-grid__cell--hide-tablet&quot;]/div[@class=&quot;search-filters&quot;]/div[@class=&quot;search-filters__filter&quot;]/div[@class=&quot;checkbox-filter&quot;]/div[@class=&quot;checkbox u-margin-bottom--0&quot;]/div[@class=&quot;checkbox__group&quot;]</value>
+      <webElementGuid>94acbd7e-f3fc-4a57-a350-4ce0cd881465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/main/div[3]/div/div[5]/div[2]/div[3]/div/div/div</value>
+      <webElementGuid>11a9ba79-9096-4425-92a3-c99ee58213c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travel Deals'])[2]/following::div[3]</value>
+      <webElementGuid>b1d9d1dd-d592-4681-b295-2a1eb1b4333c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear duration'])[2]/following::div[4]</value>
+      <webElementGuid>45f8b926-c7bb-4d69-bc67-fdf8b6639981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On sale'])[2]/preceding::div[1]</value>
+      <webElementGuid>cafe9975-81b8-4c7e-930c-cad615ffc35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Styles'])[6]/preceding::div[1]</value>
+      <webElementGuid>86d58fb1-c278-4787-bde5-bf0d1a9fc608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[3]/div/div/div</value>
+      <webElementGuid>264d1ac7-cf25-4251-adf2-463abc4376ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

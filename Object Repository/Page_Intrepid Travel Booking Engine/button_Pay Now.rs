@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pay Now</name>
+   <tag></tag>
+   <elementGuidId>40103f63-71e7-406b-abae-4de8fe3edc54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#enabledSubmit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='enabledSubmit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a25d520c-df3e-4e55-82c0-a4c081529b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>29b552e1-8602-4eb7-ba37-898b639d741a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>enabledSubmit</value>
+      <webElementGuid>c101999e-7bee-47a8-99c4-4d5a9c713318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>continue-button</value>
+      <webElementGuid>4963aa40-fbb2-44a7-8b15-782899157fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--primary</value>
+      <webElementGuid>87dc128c-3842-4433-9e6c-069c1d036cbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Pay Now
+                            </value>
+      <webElementGuid>220b4997-b729-432e-afa2-8f0262f716ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;enabledSubmit&quot;)</value>
+      <webElementGuid>d671540a-effa-4ac3-bcd2-87a8c59e0851</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='enabledSubmit']</value>
+      <webElementGuid>b4629afe-b449-4f88-80a5-b7c4dec9ab93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='transaction_form']/div/div/div[2]/div[3]/button</value>
+      <webElementGuid>0d234afa-c6a4-4124-bf66-8e491988ab08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
+      <webElementGuid>651d8d47-bf20-4fa7-abdf-64e9d7920f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking conditions'])[1]/following::button[1]</value>
+      <webElementGuid>bf1d0a9b-8946-467b-bc25-0cb607e3ec84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking summary'])[1]/preceding::button[1]</value>
+      <webElementGuid>d28b8620-2fbb-46cc-bf28-3f7d8f80874f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trips'])[1]/preceding::button[2]</value>
+      <webElementGuid>4518f872-489d-4ffd-844f-18b5a7077851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pay Now']/parent::*</value>
+      <webElementGuid>5b427d89-201b-4d94-8adc-a56b3fa2519f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>f79ab289-d641-4a4d-b814-f6f920ec412b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'enabledSubmit' and (text() = '
+                                Pay Now
+                            ' or . = '
+                                Pay Now
+                            ')]</value>
+      <webElementGuid>2c9fd230-88fc-42bd-8652-3feb60007fb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

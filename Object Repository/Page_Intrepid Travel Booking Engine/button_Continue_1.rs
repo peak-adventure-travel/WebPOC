@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue_1</name>
+   <tag></tag>
+   <elementGuidId>13ad88c1-d453-44ae-a71f-10d139b66b11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button--primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>290f9635-94cf-452f-a380-e0d4ecce03d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b38407b4-63c5-46e5-b71e-83285cfa6629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>continue-button</value>
+      <webElementGuid>f838aa36-30c5-485a-bb45-be2282bb2de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--primary</value>
+      <webElementGuid>7aa1745a-9972-4e7e-bca4-c75d4e2cb718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Continue     </value>
+      <webElementGuid>fda239a7-3524-42e0-80ae-9831c128b4be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;services_form&quot;)/div[@class=&quot;l-container&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--6-col u-text-align--right&quot;]/button[@class=&quot;button button--primary&quot;]</value>
+      <webElementGuid>f522a27c-aca7-42ba-a100-fb87096467d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>2aae4b7a-3407-4525-914b-796a68cf317b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='services_form']/div/div[3]/div[2]/button</value>
+      <webElementGuid>781c1be2-54c5-4b60-8b63-e3829e79069c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
+      <webElementGuid>5cfac3e5-6b22-4a37-b13c-49d89d9e387b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to redeem credit'])[1]/following::button[1]</value>
+      <webElementGuid>21814b8a-ab4e-4f0e-875d-82d997c27cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::button[1]</value>
+      <webElementGuid>5c7ffed0-6787-4f00-bce8-152bf6fd9c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking conditions'])[1]/preceding::button[1]</value>
+      <webElementGuid>ffc888a8-152c-462a-9923-97956cbc5a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>bdf849b8-bec0-408a-8232-707ac40e0d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/button</value>
+      <webElementGuid>6bbd0710-95eb-4c7d-bf6d-29a13e0d4850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                        Continue     ' or . = '
+                        Continue     ')]</value>
+      <webElementGuid>98a0e289-014b-4aaa-8347-1daa6d06c3b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

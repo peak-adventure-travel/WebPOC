@@ -17,42 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-'Open browser'
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('POC/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.deleteAllCookies()
+WebUI.waitForElementVisible(findTestObject('IntrepidHomePage/AvailSearch'), 0)
 
-WebUI.delay(5)
+WebUI.click(findTestObject('IntrepidHomePage/SearchBox'))
 
-WebUI.navigateToUrl('https://uat.www-intrepidtravel-com.intrepidgroup.site/en')
+WebUI.setText(findTestObject('IntrepidHomePage/SearchBox'), 'GMDD')
 
-WebUI.authenticate('https://uat.www-intrepidtravel-com.intrepidgroup.site/en', 'intrepid', 'Cbq4JOrG2n2YRrD%Ts4k', 5)
+WebUI.click(findTestObject('IntrepidHomePage/button_Search'))
 
-WebUI.waitForElementVisible(findTestObject('null'), 
+WebUI.waitForPageLoad(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Page_Search  Intrepid Travel EN/div_Ultimate Galapagos Central Islands (Grand Daphne)'))
+
+WebUI.waitForElementVisible(findTestObject('Page_Ultimate Galapagos Central Islands (Grand Daphne)  Intrepid Travel EN/h1_Ultimate Galapagos Central Islands (Grand Daphne)'), 
     0)
 
-WebUI.setText(findTestObject('null'), 
-    'TVSF')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.waitForElementPresent(findTestObject('null'), 0)
-
-WebUI.click(findTestObject('null'))
-
-WebUI.setText(findTestObject('null'), 
-    'TVSF')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.waitForElementVisible(findTestObject('null'), 10)
-
-WebUI.click(findTestObject('null'))
-
-WebUI.waitForElementVisible(findTestObject('null'), 
+WebUI.scrollToElement(findTestObject('Page_Ultimate Galapagos Central Islands (Grand Daphne)  Intrepid Travel EN/h2_Dates and availability'), 
     0)
 
-WebUI.delay(10)
+WebUI.waitForPageLoad(10)
 
 WebUI.closeBrowser()
 

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Agent login</name>
+   <name>a_Continue to booking</name>
    <tag></tag>
-   <elementGuidId>41e7d56d-ced5-45d9-852b-62663ab29d4d</elementGuidId>
+   <elementGuidId>39840e43-9183-4841-bb42-3b20c555638f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>a.button.button--special.button--block.departures-day-buttons__button.u-margin-top--1</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__layout']/div/footer/div[2]/div[2]/div/div[2]/ul/li/ul/li[8]/small/a</value>
+         <value>//div[@id='Dates-&amp;-availabilities']/div/div[2]/div[2]/div/div/div[2]/div/form/div[2]/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3c750984-c860-46be-9292-37851ac95a7c</webElementGuid>
+      <webElementGuid>6277c141-169e-4ee1-8bd5-19edfc8922dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/en/booking/agent-login</value>
-      <webElementGuid>ebbee989-8fac-4909-bba6-094a6bb6f772</webElementGuid>
+      <value>/en/pages/booking/departure/2591024</value>
+      <webElementGuid>243947a4-9707-4afa-9595-2d908cb735a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>u-color--text u-text-decoration--none hover:u-text-decoration--underline focus:u-text-decoration--underline</value>
-      <webElementGuid>b0fea884-d1bf-4bfe-8517-cc88702a0650</webElementGuid>
+      <value>button button--special button--block departures-day-buttons__button u-margin-top--1</value>
+      <webElementGuid>bef73236-7f7f-4654-9137-e0fc4e898478</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,100 +46,100 @@
       <name>text</name>
       <type>Main</type>
       <value>
-            Agent login
-          </value>
-      <webElementGuid>3498e558-0b37-45b7-af70-27548255ea8f</webElementGuid>
+        Continue to booking
+      </value>
+      <webElementGuid>3704e535-ece9-4207-b8ff-9b598497dc6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__layout&quot;)/div[1]/footer[1]/div[@class=&quot;footer u-margin-top--3&quot;]/div[@class=&quot;l-container&quot;]/div[@class=&quot;l-grid u-margin-top--2&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--2-col&quot;]/ul[@class=&quot;footer-menu u-margin-top--0 u-margin-bottom--1 u-padding-left--0&quot;]/li[@class=&quot;u-list-style-type--none&quot;]/ul[@class=&quot;u-margin-top--0 u-margin-bottom--1 u-padding-left--0&quot;]/li[@class=&quot;u-padding-top--1 u-list-style-type--none&quot;]/small[1]/a[@class=&quot;u-color--text u-text-decoration--none hover:u-text-decoration--underline focus:u-text-decoration--underline&quot;]</value>
-      <webElementGuid>69203d57-3fad-414b-959c-1aff0bdb3bf5</webElementGuid>
+      <value>id(&quot;Dates-&amp;-availabilities&quot;)/div[1]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion__item&quot;]/div[@class=&quot;accordion__item-body&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--8-col&quot;]/div[1]/form[1]/div[@class=&quot;u-display--flex u-justify-content--flex-end&quot;]/div[@class=&quot;departures-day-buttons__wrapper&quot;]/a[@class=&quot;button button--special button--block departures-day-buttons__button u-margin-top--1&quot;]</value>
+      <webElementGuid>173f21b5-c404-4bfd-9689-1e80788b45dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__layout']/div/footer/div[2]/div[2]/div/div[2]/ul/li/ul/li[8]/small/a</value>
-      <webElementGuid>c8fb3bb3-034d-49cf-8dfc-651c4d00c422</webElementGuid>
+      <value>//div[@id='Dates-&amp;-availabilities']/div/div[2]/div[2]/div/div/div[2]/div/form/div[2]/div/a</value>
+      <webElementGuid>4d8df129-ed48-4869-b471-18c17858b481</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Agent login')]</value>
-      <webElementGuid>f9c880be-078b-41fe-946e-1e6c2441352f</webElementGuid>
+      <value>//a[contains(text(),'Continue to booking')]</value>
+      <webElementGuid>4415a172-127a-4ead-a5b1-2ae379fb5a6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking conditions'])[1]/following::a[1]</value>
-      <webElementGuid>5a66330f-0c95-4a7c-98c4-76f43b531b94</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$800'])[1]/following::a[2]</value>
+      <webElementGuid>2aee3f37-1d26-4414-9373-31f59680808b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flexible bookings'])[2]/following::a[2]</value>
-      <webElementGuid>7e26e963-562f-4db7-be3d-f7051d14210a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='twin share'])[1]/following::a[2]</value>
+      <webElementGuid>2e7883de-1d4e-49fd-9f85-c189a360c128</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/preceding::a[1]</value>
-      <webElementGuid>0b4078cf-ca3e-40fd-a33b-317b9d7610ea</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Place on hold'])[1]/preceding::a[1]</value>
+      <webElementGuid>a07ec0dc-f1fd-4c32-9070-733da1593a50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/preceding::a[1]</value>
-      <webElementGuid>63e016af-32c6-4d14-8b23-1f2b87ed5d51</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saturday 9'])[1]/preceding::a[2]</value>
+      <webElementGuid>2c64ce9d-0a66-4948-b1b3-28b332e877e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Agent login']/parent::*</value>
-      <webElementGuid>d65809ac-40bd-4384-b4fa-a50ac2581a49</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Continue to booking']/parent::*</value>
+      <webElementGuid>6d5fe5f4-2a14-4eb4-88b6-e88424f78206</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/en/booking/agent-login')]</value>
-      <webElementGuid>5b91ca2e-cbc4-4194-bf7a-d71e38e3e077</webElementGuid>
+      <value>//a[contains(@href, '/en/pages/booking/departure/2591024')]</value>
+      <webElementGuid>6954acc2-d73a-4660-9893-547da3a77721</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[8]/small/a</value>
-      <webElementGuid>05430f97-1c79-4b8c-8259-e9eef2fdd268</webElementGuid>
+      <value>//form/div[2]/div/a</value>
+      <webElementGuid>f00982e6-3bb1-4e32-af5e-ea771faf2061</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/en/booking/agent-login' and (text() = '
-            Agent login
-          ' or . = '
-            Agent login
-          ')]</value>
-      <webElementGuid>98177f99-a7ae-4d21-919d-13639c7c5a76</webElementGuid>
+      <value>//a[@href = '/en/pages/booking/departure/2591024' and (text() = '
+        Continue to booking
+      ' or . = '
+        Continue to booking
+      ')]</value>
+      <webElementGuid>d0de2a9d-4092-4fb7-85c9-e5528512b7ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -25,4 +25,17 @@
       <testCaseId>Test Cases/POC/AgentLogin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>8f19c05f-5587-4954-9374-5ea17d43b773</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POC/Automation POC TC1</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>31ce5ace-8cdd-44eb-b4ed-cb9cf6f9b040</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_800.00_checkbox__group</name>
+   <tag></tag>
+   <elementGuidId>65ceefc6-63f5-4d6c-958f-19cf242172d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkbox__group</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='services_form']/div/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dde98c17-3abc-46c6-a9ab-9a5df64cd3fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox__group</value>
+      <webElementGuid>d46630c3-e658-4659-a4e8-ad17eaee31e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;services_form&quot;)/div[@class=&quot;l-container&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--8-col l-grid__cell--8-col-tablet&quot;]/div[@class=&quot;card card--large u-margin-bottom--2&quot;]/div[@class=&quot;card__content&quot;]/div[@class=&quot;card__text&quot;]/div[@class=&quot;card__section card__section--content&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--12-col u-margin-bottom--1&quot;]/div[@class=&quot;additional-services&quot;]/div[@class=&quot;additional-services__single-supplement&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--6-col&quot;]/div[@class=&quot;checkbox&quot;]/div[@class=&quot;checkbox__group&quot;]</value>
+      <webElementGuid>a505ddfd-7117-4604-b144-c0d616c0df94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='services_form']/div/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>bba5a475-b428-4ec2-8473-a729bbcd1a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$800.00'])[1]/following::div[4]</value>
+      <webElementGuid>bb81ffd0-0005-4b48-9610-b1234614ecba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[1]/following::div[4]</value>
+      <webElementGuid>e6dd195d-bd11-4e45-bffa-5179ae33efb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre &amp; post trip extras'])[1]/preceding::div[1]</value>
+      <webElementGuid>39b6f305-7b8c-463e-8a54-0984febd67be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>bbeaf585-9295-4cd6-8f8a-d5fbb4414b49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

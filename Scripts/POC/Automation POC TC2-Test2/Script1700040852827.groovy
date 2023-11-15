@@ -16,18 +16,4 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.testdata.reader.ExcelFactory as ExcelFactory
-import com.kms.katalon.core.testdata.ExcelData as ExcelData
-
-WebUI.callTestCase(findTestCase('POC/Login'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.setText(findTestObject('IntrepidHomePage/SearchBox'), 'GMDD')
-
-WebUI.enableSmartWait()
-
-WebUI.click(findTestObject('IntrepidHomePage/button_Search'))
-
-WebUI.waitForPageLoad(5)
-
-WebUI.closeBrowser()
 
