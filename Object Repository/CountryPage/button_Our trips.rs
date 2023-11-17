@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Our trips</name>
+   <tag></tag>
+   <elementGuidId>fea74a55-2442-4e32-a2e5-36b7f8e4b7d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='anchor-navigation__navigation-link-2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#anchor-navigation__navigation-link-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>08e97b13-2dbb-4407-9f5a-895789b142e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>anchor-navigation__navigation-link-2</value>
+      <webElementGuid>f32374e4-4d20-4cef-b28c-4bec8c955ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>anchor-navigation-menu-item</value>
+      <webElementGuid>1aeaf2b3-90f3-40b9-8e49-ccea99dccbc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>anchor-navigation__navigation-link</value>
+      <webElementGuid>e684a553-395d-497a-a90b-316ca413f610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Our trips
+                </value>
+      <webElementGuid>910e25f2-7bda-4875-bd6e-1b1df1670180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;anchor-navigation__navigation-link-2&quot;)</value>
+      <webElementGuid>42173213-930a-4621-8709-095ff0981bf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='anchor-navigation__navigation-link-2']</value>
+      <webElementGuid>f500cbfd-18f0-4dbe-aed2-cf389e929dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/main/div[3]/div/div/div/div/div/div/div[3]/div/button</value>
+      <webElementGuid>e11f2fad-830e-468c-b42b-372276964204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travel deals'])[1]/following::button[1]</value>
+      <webElementGuid>0f6318da-aa3d-442a-bdee-85aaf7682d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::button[2]</value>
+      <webElementGuid>cfebff5a-7ac0-4779-b33c-78d5a446e752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trip reviews'])[1]/preceding::button[1]</value>
+      <webElementGuid>38742459-4a2c-4f37-8d20-7aafe4f0a2cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Articles'])[1]/preceding::button[2]</value>
+      <webElementGuid>74b33e82-1ca7-43a8-b173-6214197c0a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Our trips']/parent::*</value>
+      <webElementGuid>62f5c14c-d55a-463c-9cea-3a3c552807a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>e499ee96-93a7-459f-9684-ad58a11913c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'anchor-navigation__navigation-link-2' and (text() = '
+                  Our trips
+                ' or . = '
+                  Our trips
+                ')]</value>
+      <webElementGuid>881e0706-9343-4cdc-a030-1d631746027a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

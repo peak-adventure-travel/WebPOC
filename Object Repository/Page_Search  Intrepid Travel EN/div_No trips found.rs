@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_No trips found</name>
+   <tag></tag>
+   <elementGuidId>10a0d492-19a4-4699-932a-48f3a9c1032a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/main/div[3]/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-trip-count</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3cb6b316-0ddf-4673-97af-dbb7f4733614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>search-trip-count</value>
+      <webElementGuid>82449472-ed4e-4b4c-9829-422f10992691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-trip-count</value>
+      <webElementGuid>67feee4b-6a32-4a6f-b39e-e6ff49b0d8a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No trips found</value>
+      <webElementGuid>3327e23e-89d0-46d0-bfa9-4670aac1701c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[1]/main[1]/div[@class=&quot;l-container u-margin-top--2 md:u-margin-top--4&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--12-col u-margin-top--0&quot;]/div[@class=&quot;search-trip-count&quot;]</value>
+      <webElementGuid>543aba03-6826-4e41-9f25-41100371f108</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/main/div[3]/div/div[4]/div</value>
+      <webElementGuid>15097333-8cc4-46a6-98d7-962b18f05699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found'])[1]/following::div[4]</value>
+      <webElementGuid>547ad7d8-e79b-43d5-aea0-1be3c52e2772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On sale'])[1]/following::div[5]</value>
+      <webElementGuid>e3924516-3394-450e-b0bc-2fe9e4ac6383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by'])[2]/preceding::div[1]</value>
+      <webElementGuid>24019366-292e-412d-aa00-faa7fe479736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travel Dates'])[2]/preceding::div[5]</value>
+      <webElementGuid>c73cff88-38e2-4296-bdb5-73956ff1128a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No trips found']/parent::*</value>
+      <webElementGuid>2f07349b-f5bf-4bd8-8297-cab6841f0d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]/div</value>
+      <webElementGuid>fa81d2bc-47cb-46c0-939e-000827bd5001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'No trips found' or . = 'No trips found')]</value>
+      <webElementGuid>82f2577c-37d5-49b6-ba6e-06ee37d5f015</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

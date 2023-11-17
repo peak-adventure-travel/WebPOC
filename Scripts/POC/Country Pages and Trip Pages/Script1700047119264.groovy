@@ -16,21 +16,25 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.testdata.reader.ExcelFactory as ExcelFactory
-import com.kms.katalon.core.testdata.ExcelData as ExcelData
 
 WebUI.callTestCase(findTestCase('POC/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('IntrepidHomePage/SearchBox'), TripCode)
+WebUI.waitForPageLoad(5)
 
-WebUI.enableSmartWait()
+WebUI.click(findTestObject('Page_Small Group Tours  Travel, Big Adventures  Intrepid Travel EN/button_Destinations'))
 
-WebUI.click(findTestObject('IntrepidHomePage/button_Search'))
+WebUI.click(findTestObject('Page_Small Group Tours  Travel, Big Adventures  Intrepid Travel EN/button_Africa'))
+
+WebUI.selectOptionByValue(findTestObject('Page_Small Group Tours  Travel, Big Adventures  Intrepid Travel EN/a_Botswana', 
+        [('variable') : Country]), Country, false)
 
 WebUI.delay(10)
 
-WebUI.verifyElementText(findTestObject('Page_Search  Intrepid Travel EN/div_Ultimate Galapagos Central Islands (Grand Daphne)'), 
-    TripName)
+WebUI.scrollToElement(findTestObject('CountryPage/subNavigation'), 0)
+
+WebUI.click(findTestObject('CountryPage/button_Trip reviews'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(5)
 
 WebUI.closeBrowser()
 

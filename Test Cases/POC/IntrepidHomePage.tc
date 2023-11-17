@@ -20,11 +20,24 @@
       <value>TripCode</value>
       <variableId>88ce4256-cecc-46f5-bfa6-c84e1b5fa743</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId>0fb78dcb-8cb3-44d6-8cd6-35e8d987431c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>TripName</value>
+      <variableId>b11c4ec0-e84f-44ee-9ac5-d8d161591951</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'GMDD'</defaultValue>
       <description></description>
       <id>88ce4256-cecc-46f5-bfa6-c84e1b5fa743</id>
       <masked>false</masked>
       <name>TripCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ultimate Galapagos: Central Islands (Grand Daphne)'</defaultValue>
+      <description></description>
+      <id>b11c4ec0-e84f-44ee-9ac5-d8d161591951</id>
+      <masked>false</masked>
+      <name>TripName</name>
    </variable>
 </TestCaseEntity>

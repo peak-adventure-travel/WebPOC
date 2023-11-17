@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Botswana</name>
+   <tag></tag>
+   <elementGuidId>52f411c2-0c6a-4115-8a89-6aa92b7c4c93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/main/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>3eb3d7e4-fc81-4ce5-ac82-e5949cf033ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>l-container sm:u-text-align--center u-margin-bottom--1 u-margin-top--3</value>
+      <webElementGuid>71664d01-f96c-41dd-a223-aba02212d110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Botswana
+  </value>
+      <webElementGuid>0b5a372f-69d4-47a1-a086-017e133b52ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[1]/main[1]/div[@class=&quot;page-banner&quot;]/h1[@class=&quot;l-container sm:u-text-align--center u-margin-bottom--1 u-margin-top--3&quot;]</value>
+      <webElementGuid>1b86abec-70b4-416a-8bf6-3e7f649e66cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/main/div/h1</value>
+      <webElementGuid>0ca312ea-f51b-4da5-82d4-6fcdfb1b0c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Botswana'])[3]/following::h1[1]</value>
+      <webElementGuid>e34813b1-7fca-4e4b-8462-5d89f2abdfeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Africa'])[5]/following::h1[1]</value>
+      <webElementGuid>22e8a3cc-d7e4-44e8-97b1-f8ef354cf652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/preceding::h1[1]</value>
+      <webElementGuid>bc970583-1d8a-4096-bbaf-6064661aa925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travel deals'])[1]/preceding::h1[1]</value>
+      <webElementGuid>71b83c53-0258-4d76-97c8-16bb45daada9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>8cf26387-d6f8-4712-b54b-7024f5d97e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '
+    Botswana
+  ' or . = '
+    Botswana
+  ')]</value>
+      <webElementGuid>0396a01c-58ad-4f83-8a8a-31e6e3386c14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
