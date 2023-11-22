@@ -21,3 +21,7 @@ WebUI.openBrowser('https://uat.www-intrepidtravel-com.intrepidgroup.site/en')
 
 WebUI.authenticate('https://uat.www-intrepidtravel-com.intrepidgroup.site/en', 'intrepid', 'Cbq4JOrG2n2YRrD%Ts4k', 0)
 
+WebUI.navigateToUrl('https://uat.www-intrepidtravel-com.intrepidgroup.site/en')
+
+WebUI.maximizeWindow()
+

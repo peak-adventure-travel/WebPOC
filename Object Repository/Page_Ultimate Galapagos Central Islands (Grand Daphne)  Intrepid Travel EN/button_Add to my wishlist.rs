@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to my wishlist</name>
+   <tag></tag>
+   <elementGuidId>86b2d401-4735-46e7-9a92-87a878b1d831</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/main/div[2]/div/div[2]/div/div[2]/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.wishlist-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9adc2a69-02eb-4fe0-8bd0-d4c4e1b9578f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>wishlist-button__add-to-wishlist</value>
+      <webElementGuid>293b0e87-1d1d-45fb-b711-1f65c4f3f861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wishlist-button</value>
+      <webElementGuid>ea18a94f-f7f5-4e7a-a05c-352547f44769</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to my wishlist     </value>
+      <webElementGuid>f5c90612-24b1-4219-88e2-2747e4643d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[1]/main[1]/div[2]/div[@class=&quot;trip-snapshot&quot;]/div[@class=&quot;l-container u-padding-top--1-5 sm:u-padding-top--1 u-padding-bottom--1 sm:u-padding-bottom--3&quot;]/div[@class=&quot;l-grid u-justify-content--space-between u-margin-top--0 u-margin-bottom--0 u-margin-left--0 u-margin-right--0&quot;]/div[@class=&quot;l-grid__cell--6-col l-grid__cell--4-col-tablet sm:l-grid__cell--3-col-tablet l-grid__cell--12-col-phone u-margin-top--1-5 sm:u-margin-top--2 md:u-margin-top--0 u-display--flex u-flex-direction--column u-justify-content--flex-end&quot;]/div[@class=&quot;u-padding-top--0-5 u-text-align--left sm:u-text-align--right&quot;]/div[@class=&quot;u-display--inline&quot;]/button[@class=&quot;wishlist-button&quot;]</value>
+      <webElementGuid>6833995c-8f34-4912-aad4-b1b0f9c02e28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/main/div[2]/div/div[2]/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>267e635a-c815-46a9-834a-39a278ea9fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$5,426'])[1]/following::button[1]</value>
+      <webElementGuid>f2369fd4-8de5-48a7-ae44-02bcf48bdab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[1]/following::button[1]</value>
+      <webElementGuid>8df623b6-5d60-4d45-b9b3-26f4706125e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View dates and book'])[1]/preceding::button[1]</value>
+      <webElementGuid>c5441d35-ae11-4e13-b341-f279f99dd466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>abf854e5-e605-431f-af06-9e737aeee0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add to my wishlist     ' or . = 'Add to my wishlist     ')]</value>
+      <webElementGuid>345dff5e-7840-461e-a6dd-a25f0f81a017</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

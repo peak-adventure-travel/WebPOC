@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1 trip found</name>
+   <tag></tag>
+   <elementGuidId>34d8b0b5-2963-4906-9600-700a44161190</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/main/div[3]/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-trip-count</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f56627e-fc3d-4584-9cb9-937943c6696d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>search-trip-count</value>
+      <webElementGuid>5df0eff3-ecb9-40f3-8d17-e8400ed94282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-trip-count</value>
+      <webElementGuid>71fc699b-e34b-48c4-bfab-abeafbf0a335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 trip found
+  </value>
+      <webElementGuid>b71a2e28-5f35-4259-9681-0c8d23efedc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[1]/main[1]/div[@class=&quot;l-container u-margin-top--2 md:u-margin-top--4&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--12-col u-margin-top--0&quot;]/div[@class=&quot;search-trip-count&quot;]</value>
+      <webElementGuid>300512e3-9ae6-4701-a76d-76729d5b8b3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/main/div[3]/div/div[4]/div</value>
+      <webElementGuid>cdc4ce4f-f85a-470e-a2dc-ee1194187961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show 1 trip'])[1]/following::div[4]</value>
+      <webElementGuid>4c78187f-8852-4ea9-817a-34922bcba350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by'])[2]/preceding::div[1]</value>
+      <webElementGuid>9a00fae6-62a4-45c4-9149-9f5cc9321274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]/div</value>
+      <webElementGuid>2ec17e18-98bb-4a17-8031-8f10305ad25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1 trip found
+  ' or . = '1 trip found
+  ')]</value>
+      <webElementGuid>a8c8e996-ae42-4066-bb77-b54c59368c35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
