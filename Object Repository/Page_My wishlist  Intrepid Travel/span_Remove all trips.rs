@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Remove all trips</name>
+   <tag></tag>
+   <elementGuidId>8776e977-4a0d-4550-beed-bbd1806611e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/main/div[2]/div[2]/div[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.u-padding-left--0-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e8cfbf6-f387-4b7c-afe4-cec25275c881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-padding-left--0-5</value>
+      <webElementGuid>e3ac5434-875f-43e7-84dc-63aa6e9bd3db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remove all trips</value>
+      <webElementGuid>0d041e5e-9233-4073-a47a-6d524990241f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/main[1]/div[@class=&quot;u-margin-top--2&quot;]/div[@class=&quot;l-container&quot;]/div[@class=&quot;u-display--flex sm:u-flex-direction--row sm:u-justify-content--space-between u-padding-top--1-5 u-padding-bottom--1-5 sm:u-padding-bottom--2 u-flex-direction--column-reverse sm:u-flex-direction--row&quot;]/div[1]/button[@class=&quot;button button--secondary u-margin-top--0-5 sm:u-margin-top--0 wishlist-page__remove-all-trips-button&quot;]/span[@class=&quot;u-padding-left--0-5&quot;]</value>
+      <webElementGuid>c29877f2-fa9e-41ae-8a50-cfcfac2be9ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/main/div[2]/div[2]/div[2]/div/button/span</value>
+      <webElementGuid>73f703b8-8b7f-4127-b91a-44f5cd04b120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Don’t lose your wishlist!'])[1]/following::span[1]</value>
+      <webElementGuid>c05208d6-6368-43f1-b34e-825d176e5ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create my account'])[1]/preceding::span[1]</value>
+      <webElementGuid>b72ac707-57c6-439c-95b5-bc37c052af03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vietnam Express Southbound'])[1]/preceding::span[1]</value>
+      <webElementGuid>4e2e046a-12be-45c2-a0d9-b9a118525b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remove all trips']/parent::*</value>
+      <webElementGuid>f49eb11a-2f16-4533-85dc-5b59f40b471f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>1ba2e8d7-7f53-474a-b02f-3e298e41759a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Remove all trips' or . = 'Remove all trips')]</value>
+      <webElementGuid>9ff01d11-3685-4f91-a135-80354dbdfe7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

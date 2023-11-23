@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Automation POC TC3</name>
+   <tag>UAT,DEV</tag>
+   <comment></comment>
+   <testCaseGuid>2a8cae5a-3d25-4119-b289-49897c5cbd59</testCaseGuid>
+</TestCaseEntity>

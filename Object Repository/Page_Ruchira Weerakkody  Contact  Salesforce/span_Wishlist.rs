@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Wishlist</name>
+   <tag></tag>
+   <elementGuidId>08196b57-98e7-402f-b9b0-a1ba17b6826f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//flexipage-record-home-scrollable-column[@id='rightColumn-282']/slot/slot/flexipage-component2[5]/slot/lst-dynamic-related-list/article/laf-progressive-container/slot/lst-dynamic-related-list-with-user-prefs/lst-related-list-view-manager/lst-common-list-internal/lst-list-view-manager-header/div/div/div/div/div/h2/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>lst-dynamic-related-list-with-user-prefs > lst-related-list-view-manager > lst-common-list-internal > lst-list-view-manager-header > div.slds-page-header.slds-page-header_joined.slds-page-header_bleed.slds-shrink-none.test-headerRegion.slds-is-relative > div.slds-media.slds-media--center.slds-has-flexi-truncate > div.slds-col.slds-has-flexi-truncate.firstHeaderRow > div.slds-media.slds-no-space.slds-grow > div.slds-media__body.slds-align-middle > h2.slds-card__header-title > a.slds-card__header-link.baseCard__header-title-container > span.slds-truncate.slds-m-right--xx-small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ab3c40a9-d673-4609-9260-842d4a00760d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate slds-m-right--xx-small</value>
+      <webElementGuid>3d244bd9-613f-46d5-8214-39050066fc9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Wishlist</value>
+      <webElementGuid>00efabc6-a6e6-4ac3-bce0-d0595abbc9ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wishlist</value>
+      <webElementGuid>baef20b5-a080-49b2-b7df-24c13b6c5b48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightColumn-282&quot;)/slot[1]/slot[1]/flexipage-component2[5]/slot[1]/lst-dynamic-related-list[1]/article[@class=&quot;slds-card slds-card_boundary&quot;]/laf-progressive-container[1]/slot[1]/lst-dynamic-related-list-with-user-prefs[1]/lst-related-list-view-manager[1]/lst-common-list-internal[1]/lst-list-view-manager-header[1]/div[@class=&quot;slds-page-header slds-page-header_joined slds-page-header_bleed slds-shrink-none test-headerRegion slds-is-relative&quot;]/div[@class=&quot;slds-media slds-media--center slds-has-flexi-truncate&quot;]/div[@class=&quot;slds-col slds-has-flexi-truncate firstHeaderRow&quot;]/div[@class=&quot;slds-media slds-no-space slds-grow&quot;]/div[@class=&quot;slds-media__body slds-align-middle&quot;]/h2[@class=&quot;slds-card__header-title&quot;]/a[@class=&quot;slds-card__header-link baseCard__header-title-container&quot;]/span[@class=&quot;slds-truncate slds-m-right--xx-small&quot;]</value>
+      <webElementGuid>49dbcc3b-2328-40f1-a6cb-12d63f2f72af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//flexipage-record-home-scrollable-column[@id='rightColumn-282']/slot/slot/flexipage-component2[5]/slot/lst-dynamic-related-list/article/laf-progressive-container/slot/lst-dynamic-related-list-with-user-prefs/lst-related-list-view-manager/lst-common-list-internal/lst-list-view-manager-header/div/div/div/div/div/h2/a/span</value>
+      <webElementGuid>006724c8-f838-4d7e-b14e-5c22fa67c64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show actions for Opportunity Product (Trips)'])[1]/following::span[2]</value>
+      <webElementGuid>54e0c583-0c58-481b-a85b-a5f738cef278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[6]/following::span[4]</value>
+      <webElementGuid>c17e1769-fd18-4295-83da-4a0642cc18dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(3)'])[1]/preceding::span[1]</value>
+      <webElementGuid>03996feb-a7a6-4357-8946-720fe1236f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open 405494 Preview'])[1]/preceding::span[3]</value>
+      <webElementGuid>41ffd380-00c5-458b-97eb-a4545f253e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wishlist']/parent::*</value>
+      <webElementGuid>19b873f8-2147-4e1d-8dd3-cc659b6f19db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lst-dynamic-related-list-with-user-prefs/lst-related-list-view-manager/lst-common-list-internal/lst-list-view-manager-header/div/div/div/div/div/h2/a/span</value>
+      <webElementGuid>1b117503-b548-47f2-bcd0-c515080b6738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Wishlist' and (text() = 'Wishlist' or . = 'Wishlist')]</value>
+      <webElementGuid>47eebef1-9453-4cfc-a532-a14bec0cc4df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//flexipage-record-home-scrollable-column[@id='rightColumn-638']/slot/slot/flexipage-component2[5]/slot/lst-dynamic-related-list/article/laf-progressive-container/slot/lst-dynamic-related-list-with-user-prefs/lst-related-list-view-manager/lst-common-list-internal/lst-list-view-manager-header/div/div/div/div/div/h2/a/span</value>
+      <webElementGuid>43ef9d4a-9f7a-4874-8ae2-9610a670affd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunity Product (Trips)'])[2]/following::span[2]</value>
+      <webElementGuid>471c1446-e9b4-404f-aa65-e7354912563c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[3]/preceding::span[1]</value>
+      <webElementGuid>904527ac-f1b0-4df9-8953-f322268b2e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Just so you know'])[1]/preceding::span[3]</value>
+      <webElementGuid>daa93bd2-4353-4f3c-bc71-c99489afc2f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

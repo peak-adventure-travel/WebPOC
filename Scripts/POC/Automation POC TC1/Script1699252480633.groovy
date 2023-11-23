@@ -55,5 +55,13 @@ WebUI.scrollToElement(findTestObject('Page_Ultimate Galapagos Central Islands (G
 
 WebUI.click(findTestObject('Page_Ultimate Galapagos Central Islands (Grand Daphne)  Intrepid Travel EN/a_Continue to booking'))
 
+WebUI.callTestCase(findTestCase('POC/BookingEngineAddLeadPaxDetails'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('POC/AddCCPayment'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('POC/BookigDetailCapture'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.delay(10)
+
+WebUI.closeBrowser()
 

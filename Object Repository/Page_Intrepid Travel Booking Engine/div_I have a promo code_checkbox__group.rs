@@ -6,12 +6,12 @@
    <elementGuidId>ef3c6dd0-2158-4235-92f7-7b77cde99448</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.checkbox__group</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form[@id='transaction_form']/div/div/div/div/div/div/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkbox__group</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ecc30267-ee13-4342-891e-a669dc18aa08</webElementGuid>
+      <webElementGuid>37240afa-16aa-4e64-9590-a002c78bcedc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>checkbox__group</value>
-      <webElementGuid>ecab9cda-36ca-41b4-8169-ad60456a10bd</webElementGuid>
+      <webElementGuid>d55ec3f8-3443-48b9-9611-b63c299837bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;transaction_form&quot;)/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--8-col l-grid__cell--order-2-tablet l-grid__cell--order-2-phone&quot;]/div[@class=&quot;card card--large&quot;]/div[@class=&quot;card__content&quot;]/div[@class=&quot;card__text&quot;]/div[@class=&quot;card__section card__section--content&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--12-col&quot;]/div[@class=&quot;checkbox&quot;]/div[@class=&quot;checkbox__group&quot;]</value>
-      <webElementGuid>e56792a0-a99f-4bc1-9ec1-1c3d67cf693d</webElementGuid>
+      <webElementGuid>62432faa-b4a3-4f99-b77e-9458a269ba28</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='transaction_form']/div/div/div/div/div/div/div/div[3]/div</value>
-      <webElementGuid>072a92dc-6017-432a-93fa-aa69f69736cd</webElementGuid>
+      <webElementGuid>3db4a70d-817e-4ae3-bf6f-dfff23be6c67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I have a promo code'])[1]/following::div[2]</value>
-      <webElementGuid>c14f4415-0274-4605-8b20-0f7b1ec3fc29</webElementGuid>
+      <webElementGuid>db4cf00d-e39c-43a8-99c2-8f253c8045d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CVV/CVC'])[1]/following::div[3]</value>
-      <webElementGuid>0f0090dc-6a65-44d6-a8df-b460481ed9c9</webElementGuid>
+      <webElementGuid>0f5c050f-e22a-415b-a5b0-e5ef3075b0b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='terms and conditions'])[1]/preceding::div[1]</value>
-      <webElementGuid>d5074bf3-deef-434b-a7aa-226d40d2fe6b</webElementGuid>
+      <webElementGuid>a922eaa3-1f3d-41dd-a129-f1f387177d09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div[3]/div</value>
-      <webElementGuid>22855136-2cf9-45db-8170-31b8131914db</webElementGuid>
+      <webElementGuid>ba7f5e86-81c4-4f63-9ffb-96a4f162f851</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

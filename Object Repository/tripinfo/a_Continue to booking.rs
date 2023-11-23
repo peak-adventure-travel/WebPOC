@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>60319132-db48-4af1-9633-8f49506640e1</webElementGuid>
+      <webElementGuid>a045d8e8-71e3-43d0-a182-36a1926d266a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/en/pages/booking/departure/2576154</value>
-      <webElementGuid>957d01a8-854f-45dc-9836-1cdb0b75673b</webElementGuid>
+      <webElementGuid>7434322f-74bb-48ff-af47-3089fbe80fbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button button--special button--block departures-day-buttons__button u-margin-top--1</value>
-      <webElementGuid>90713148-88fd-45b1-a474-ba004c893ab5</webElementGuid>
+      <webElementGuid>86346def-aab6-47f3-a6f0-e79df478b057</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
         Continue to booking
       </value>
-      <webElementGuid>a9a19b11-3782-4a24-831b-004c01d3b065</webElementGuid>
+      <webElementGuid>13d2a33a-eb00-4359-9b34-0dfdec91410d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Dates-&amp;-availabilities&quot;)/div[1]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion__item&quot;]/div[@class=&quot;accordion__item-body&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--8-col&quot;]/div[1]/form[1]/div[@class=&quot;u-display--flex u-justify-content--flex-end&quot;]/div[@class=&quot;departures-day-buttons__wrapper&quot;]/a[@class=&quot;button button--special button--block departures-day-buttons__button u-margin-top--1&quot;]</value>
-      <webElementGuid>29eced16-da97-475f-9505-9b5eb44a9564</webElementGuid>
+      <webElementGuid>9217848a-0004-4224-a036-59c33c297423</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='Dates-&amp;-availabilities']/div/div[2]/div[2]/div/div/div[2]/div/form/div[2]/div/a</value>
-      <webElementGuid>a41eb31b-3c81-4228-83de-630bf6bc139b</webElementGuid>
+      <webElementGuid>c990f433-8661-4b56-9abf-092ce1f5df93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Continue to booking')]</value>
-      <webElementGuid>baa90fd8-ef59-419f-8d12-a21e8174cc0f</webElementGuid>
+      <webElementGuid>6108ca12-7b8b-4e61-a329-f403e7cca371</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$120'])[1]/following::a[2]</value>
-      <webElementGuid>8e37998e-2cee-45d5-9a21-265d62c02805</webElementGuid>
+      <webElementGuid>bd477d2c-694e-4a4b-a23d-bc68fd9b68d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[10]/following::a[2]</value>
-      <webElementGuid>6625e226-12fd-4f39-964d-b49812f55e89</webElementGuid>
+      <webElementGuid>3735591f-4a47-4ce3-be6b-f620dc3c89e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tuesday 13'])[1]/preceding::a[1]</value>
-      <webElementGuid>ce25d5f3-5a20-440a-971d-ec75efd3a70f</webElementGuid>
+      <webElementGuid>a1963233-e36d-4ad1-9713-2add2b33a4ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tue 13'])[1]/preceding::a[1]</value>
-      <webElementGuid>3389e569-2076-492a-9806-fd4b32f58519</webElementGuid>
+      <webElementGuid>40c19da7-425c-4a5e-8a62-f0612c341857</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Continue to booking']/parent::*</value>
-      <webElementGuid>8ac18823-7c35-46a9-8911-a33a955523f5</webElementGuid>
+      <webElementGuid>8474fd2e-fe37-4629-a6b1-5d868d799bd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/en/pages/booking/departure/2576154')]</value>
-      <webElementGuid>19b68ae3-d02f-453c-a2a7-4f492247d4fa</webElementGuid>
+      <webElementGuid>5eadbb0f-3697-48e5-b908-b03877f17a95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/div/a</value>
-      <webElementGuid>40c38a42-7f4d-41cf-b571-dd99fc9c1484</webElementGuid>
+      <webElementGuid>daad985a-ab69-41f8-a772-39828675c285</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,6 +140,6 @@
       ' or . = '
         Continue to booking
       ')]</value>
-      <webElementGuid>04ffa68e-fd65-48ea-a0c4-911d2782173f</webElementGuid>
+      <webElementGuid>bb2d40da-a162-4027-a9e7-a0f32ff9631e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

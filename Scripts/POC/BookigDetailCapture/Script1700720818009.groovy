@@ -17,3 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.verifyElementPresent(findTestObject('Page_Intrepid Travel Booking Engine Final/span_your booking is confirmed'), 0)
+
+WebUI.verifyElementText(findTestObject('Page_Intrepid Travel Booking Engine Final/span_your booking is confirmed'), 'your booking is confirmed!')
+
+WebUI.verifyElementPresent(findTestObject('Page_Intrepid Travel Booking Engine Final/strong_7432814'), 0)
+

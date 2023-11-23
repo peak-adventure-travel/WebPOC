@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-primitive-icon</name>
+   <tag></tag>
+   <elementGuidId>c3be4520-cbaa-46c5-94b9-82b2ba50c83b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions for Ruchira Weerakkody | Contact'])[1]/following::lightning-primitive-icon[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_icon.slds-button_icon-x-small.slds-button_icon-container > lightning-primitive-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-primitive-icon</value>
+      <webElementGuid>53e25a6a-0ccb-4743-82f5-b6d7fadebafa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>variant</name>
+      <type>Main</type>
+      <value>bare</value>
+      <webElementGuid>91163969-0250-410c-8f09-3ad76d93bc66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>1064:0</value>
+      <webElementGuid>80bf6ebc-10bd-43db-bbde-6a3956c23796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;desktop slds-wcag&quot;]/div[@class=&quot;desktop container forceStyle oneOne navexDesktopLayoutContainer lafAppLayoutHost forceAccess tablet&quot;]/div[@class=&quot;viewport&quot;]/section[@class=&quot;layoutContent stage panelSlide hasFixedFooter&quot;]/div[@class=&quot;workspaceManager navexWorkspaceManager&quot;]/div[@class=&quot;oneConsoleTabset wsTabBarHidden navexConsoleTabset&quot;]/div[@class=&quot;tabsetHeader slds-context-bar slds-context-bar--tabs slds-no-print&quot;]/div[@class=&quot;slds-context-bar__secondary navCenter tabBarContainer&quot;]/div[@class=&quot;tabContainer oneConsoleTabContainer slds-grid active navexConsoleTabContainer&quot;]/div[@class=&quot;tabBar slds-grid&quot;]/ul[@class=&quot;tabBarItems slds-grid&quot;]/li[@class=&quot;oneConsoleTabItem tabItem slds-context-bar__item slds-context-bar__item_tab slds-is-active active hasActions hideAnimation slds-has-sub-tabs  navexConsoleTabItem&quot;]/div[@class=&quot;close slds-col--bump-left slds-p-left--none slds-context-bar__icon-action&quot;]/button[@class=&quot;slds-button slds-button_icon slds-button_icon-x-small slds-button_icon-container&quot;]/lightning-primitive-icon[1]</value>
+      <webElementGuid>09292455-9fb4-43e9-b0f1-6e2f4919a207</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions for Ruchira Weerakkody | Contact'])[1]/following::lightning-primitive-icon[1]</value>
+      <webElementGuid>8a0076dd-7a26-441c-afe8-333f047e2fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ruchira Weerakkody | Contact'])[1]/following::lightning-primitive-icon[2]</value>
+      <webElementGuid>bdbf021b-0bf9-443b-a7ff-98713fdbd373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Ruchira Weerakkody | Contact'])[1]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>f7523a2f-d808-427c-b9ba-79ceace3bade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>78b6168d-4ac4-4c49-8bc6-2ce1ecb1a62f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/lightning-primitive-icon</value>
+      <webElementGuid>61060080-fbf0-4cd6-a728-5598808a87fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

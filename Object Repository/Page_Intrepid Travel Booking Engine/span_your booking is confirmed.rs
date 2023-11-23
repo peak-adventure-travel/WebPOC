@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_your booking is confirmed</name>
+   <tag></tag>
+   <elementGuidId>b8e03e98-0dfa-4633-a64a-4d48cb0fdf82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/div/div/div/div/div/h3/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2208dcd9-00b0-43d6-8bbf-30eedc9aa75f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>your booking is confirmed!</value>
+      <webElementGuid>7fad5fa0-a027-4feb-b90e-0d0d6f83d679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[@class=&quot;l-main&quot;]/div[@class=&quot;l-container&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--4-col l-grid__cell--6-col-desktop&quot;]/div[@class=&quot;u-text-align--center&quot;]/div[1]/h3[1]/span[1]</value>
+      <webElementGuid>37b9eec1-5df8-4c43-afe6-a828fadbade9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/div/div/div/div/div/h3/span</value>
+      <webElementGuid>8d1b2d05-6d92-44a5-9e94-31005b7f01f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Heads up!'])[1]/following::span[1]</value>
+      <webElementGuid>67bdf4c5-7414-48fb-92b3-baefa20b6140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ultimate Galapagos: Central Islands (Grand Daphne) Lower deck twin'])[1]/preceding::span[1]</value>
+      <webElementGuid>a2748046-3c66-4e93-9e9c-010523fe4de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trip'])[1]/preceding::span[1]</value>
+      <webElementGuid>520576bb-7ea2-4734-9ce5-93d555a328a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='your booking is confirmed!']/parent::*</value>
+      <webElementGuid>7df0bd8e-84f8-4f6c-b77e-3e293c48161f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>86148251-894e-494a-877c-6c9797be66ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'your booking is confirmed!' or . = 'your booking is confirmed!')]</value>
+      <webElementGuid>c5005983-5b8d-4a9e-b1c5-9962f38e1561</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

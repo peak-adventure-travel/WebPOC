@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManageMyBooking</name>
+   <tag>UAT,DEV</tag>
+   <comment></comment>
+   <testCaseGuid>ec8599a8-ca85-4f17-8c62-f1af5da5abd0</testCaseGuid>
+</TestCaseEntity>

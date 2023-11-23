@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2c44c8f3-b49e-4371-ae30-ef1a7c9597a9</webElementGuid>
+      <webElementGuid>e96b995b-4a83-43d4-a299-6251c857328e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-background-color--sand u-padding-top--1-5 u-padding-bottom--1-5</value>
-      <webElementGuid>82a5890c-fad1-4349-840c-1cbcee53fb40</webElementGuid>
+      <webElementGuid>783f1a38-a118-479b-8069-c54755a04779</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,7 +43,7 @@
                             4.8
     out of 5 based on 26 reviews submitted.
     </value>
-      <webElementGuid>a928d14a-5b5e-4fa4-85a1-840e45b061d3</webElementGuid>
+      <webElementGuid>68622bf7-a902-4e6a-81b1-1b12521227e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__layout&quot;)/div[1]/div[1]/main[1]/div[2]/div[@class=&quot;trip-snapshot&quot;]/div[@class=&quot;u-background-color--sand u-padding-top--1-5 u-padding-bottom--1-5&quot;]</value>
-      <webElementGuid>a405ffc0-47ab-4c97-b9dd-119675ed6024</webElementGuid>
+      <webElementGuid>379e77c5-261b-4253-9df7-3a1b332ac4d5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -59,7 +59,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__layout']/div/div/main/div[2]/div/div</value>
-      <webElementGuid>f57b3e72-8425-4028-979b-943746e1df22</webElementGuid>
+      <webElementGuid>c1ccfafc-a009-48b0-9598-9d3629c445c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ultimate Galapagos: Central Islands (Grand Daphne)'])[2]/following::div[3]</value>
-      <webElementGuid>9ef9e102-0b2e-4100-b539-b0f239d0593f</webElementGuid>
+      <webElementGuid>738ab02e-a417-4bd9-958d-f969012fa79e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ultimate Galapagos: Central Islands (Grand Daphne)'])[1]/following::div[4]</value>
-      <webElementGuid>161cbbbd-48df-45b8-8030-4fe54ffdf289</webElementGuid>
+      <webElementGuid>39a128f5-a9f1-4583-a74e-e1f3bd27dbe0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Adventure Cruising'])[1]/preceding::div[4]</value>
-      <webElementGuid>92b4bd31-7247-402b-ae8d-28bb8ef56c20</webElementGuid>
+      <webElementGuid>634fdbee-3fdd-4430-9c10-743fd5eea3de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div[2]/div/div</value>
-      <webElementGuid>79c15b22-3c13-4040-ab4f-0adb87836b47</webElementGuid>
+      <webElementGuid>0ba74443-c23d-47d1-8f4e-f930221a4543</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
                             4.8
     out of 5 based on 26 reviews submitted.
     ')]</value>
-      <webElementGuid>99ae40b3-c0c0-410d-a59e-7040dff03a42</webElementGuid>
+      <webElementGuid>80fea04d-b892-481b-891c-36f517c10de5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

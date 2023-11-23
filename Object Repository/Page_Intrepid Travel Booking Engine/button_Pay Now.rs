@@ -6,12 +6,12 @@
    <elementGuidId>40103f63-71e7-406b-abae-4de8fe3edc54</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#enabledSubmit</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='enabledSubmit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#enabledSubmit</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a25d520c-df3e-4e55-82c0-a4c081529b96</webElementGuid>
+      <webElementGuid>02cd86d7-bf10-4746-87a6-0ff55334171e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>29b552e1-8602-4eb7-ba37-898b639d741a</webElementGuid>
+      <webElementGuid>2e78738d-2a9f-40fd-98b5-db43cf649bcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>enabledSubmit</value>
-      <webElementGuid>c101999e-7bee-47a8-99c4-4d5a9c713318</webElementGuid>
+      <webElementGuid>83cd179c-2fc5-4c0a-927d-a7caf49cdb02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-cy</name>
       <type>Main</type>
       <value>continue-button</value>
-      <webElementGuid>4963aa40-fbb2-44a7-8b15-782899157fba</webElementGuid>
+      <webElementGuid>8fc0c5a3-4c74-442a-bcf1-75214ca175ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button button--primary</value>
-      <webElementGuid>87dc128c-3842-4433-9e6c-069c1d036cbc</webElementGuid>
+      <webElementGuid>6d253799-7378-4cda-b024-ee5a62f6feac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <value>
                                 Pay Now
                             </value>
-      <webElementGuid>220b4997-b729-432e-afa2-8f0262f716ae</webElementGuid>
+      <webElementGuid>b259e7a8-4c17-4f45-a8a8-7e119b52d574</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;enabledSubmit&quot;)</value>
-      <webElementGuid>d671540a-effa-4ac3-bcd2-87a8c59e0851</webElementGuid>
+      <webElementGuid>7006ce79-5651-4f4c-89d4-4c705a7faca0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='enabledSubmit']</value>
-      <webElementGuid>b4629afe-b449-4f88-80a5-b7c4dec9ab93</webElementGuid>
+      <webElementGuid>749690ed-982b-4b6a-94a3-086b47fd9a48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='transaction_form']/div/div/div[2]/div[3]/button</value>
-      <webElementGuid>0d234afa-c6a4-4124-bf66-8e491988ab08</webElementGuid>
+      <webElementGuid>fd19d170-cb00-4d40-9651-7880633fdf76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
-      <webElementGuid>651d8d47-bf20-4fa7-abdf-64e9d7920f13</webElementGuid>
+      <webElementGuid>3271e5ea-db17-4a7a-a64b-e70a7fe1c7c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking conditions'])[1]/following::button[1]</value>
-      <webElementGuid>bf1d0a9b-8946-467b-bc25-0cb607e3ec84</webElementGuid>
+      <webElementGuid>c1911dd5-f5aa-465b-8d89-6183b933706d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking summary'])[1]/preceding::button[1]</value>
-      <webElementGuid>d28b8620-2fbb-46cc-bf28-3f7d8f80874f</webElementGuid>
+      <webElementGuid>b0c5090c-9f3e-4b15-8225-3d15d6fc96a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Trips'])[1]/preceding::button[2]</value>
-      <webElementGuid>4518f872-489d-4ffd-844f-18b5a7077851</webElementGuid>
+      <webElementGuid>3beed9d0-1be4-4798-81bf-fd24a75425b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pay Now']/parent::*</value>
-      <webElementGuid>5b427d89-201b-4d94-8adc-a56b3fa2519f</webElementGuid>
+      <webElementGuid>be782b33-b003-48b4-9ebe-f298ca5fcf34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>f79ab289-d641-4a4d-b814-f6f920ec412b</webElementGuid>
+      <webElementGuid>57a60538-6211-476d-b3a2-157344a0a529</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,6 +148,6 @@
                             ' or . = '
                                 Pay Now
                             ')]</value>
-      <webElementGuid>2c9fd230-88fc-42bd-8652-3feb60007fb5</webElementGuid>
+      <webElementGuid>2cf60d14-1a5a-49ff-ac6c-8f4ebd73040b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

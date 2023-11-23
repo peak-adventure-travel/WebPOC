@@ -23,5 +23,7 @@ WebUI.authenticate('https://uat.www-intrepidtravel-com.intrepidgroup.site/en', '
 
 WebUI.navigateToUrl('https://uat.www-intrepidtravel-com.intrepidgroup.site/en')
 
-WebUI.maximizeWindow()
+WebUI.setViewPortSize(1440, 1664)
+
+//WebUI.maximizeWindow()
 

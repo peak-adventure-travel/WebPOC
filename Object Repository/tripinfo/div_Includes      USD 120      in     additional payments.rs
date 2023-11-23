@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3e3e94c2-cf43-431a-9b00-09012d4656f6</webElementGuid>
+      <webElementGuid>373aecff-850c-4b0e-b21e-dc7e80e220fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>data-cy</name>
       <type>Main</type>
       <value>departures-style-additional-payments__exclusions-details</value>
-      <webElementGuid>ea2896e8-1fe5-43f6-93ac-2fa4d1965b2d</webElementGuid>
+      <webElementGuid>2da65ad4-a182-488d-a07d-7e07817ad4d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>departures-additional-payments__exclusions-details u-text-align--center sm:u-text-align--right</value>
-      <webElementGuid>3fbdf4cd-593c-469f-b978-09e6274f8d70</webElementGuid>
+      <webElementGuid>3dcc3ed7-fc78-4996-8775-63f91bd74f63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       USD $120
       in
      additional payments</value>
-      <webElementGuid>a5f6bbc3-7fe5-4de0-a6f4-7f223f0a927d</webElementGuid>
+      <webElementGuid>2da37a2b-0211-4030-9d83-888c5028a076</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Dates-&amp;-availabilities&quot;)/div[1]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion__item&quot;]/div[@class=&quot;accordion__item-body&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--8-col&quot;]/div[1]/form[1]/div[@class=&quot;departures-style u-margin-bottom--1&quot;]/div[@class=&quot;departures-additional-payments-link&quot;]/div[@class=&quot;departures-additional-payments__exclusions-details u-text-align--center sm:u-text-align--right&quot;]</value>
-      <webElementGuid>20796b89-4999-44aa-908c-a91b2fe6049e</webElementGuid>
+      <webElementGuid>ff774908-d3e1-42fa-bd8a-9dea6467e262</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='Dates-&amp;-availabilities']/div/div[2]/div[2]/div/div/div[2]/div/form/div/div[6]/div</value>
-      <webElementGuid>66cc2c81-9d0b-4bdb-9826-1c90c19247e0</webElementGuid>
+      <webElementGuid>1f8a0db9-956f-4555-809d-aef7f43abba6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[1]/following::div[2]</value>
-      <webElementGuid>2955f1a5-492d-45ca-a272-b930c3e899b6</webElementGuid>
+      <webElementGuid>d0ebfc2b-b21d-4cba-a4b8-44d54d7be148</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fully booked'])[1]/following::div[2]</value>
-      <webElementGuid>1b33997f-fa7f-47ca-89f5-d7ce780ec136</webElementGuid>
+      <webElementGuid>75dc7d9e-43b2-4d84-96d6-046ad0ba29ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div[6]/div</value>
-      <webElementGuid>2ca2552f-acf6-4794-8046-fef906c64fe6</webElementGuid>
+      <webElementGuid>524dd348-f2c8-445a-9de4-401cfbc849ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
       USD $120
       in
      additional payments')]</value>
-      <webElementGuid>efa36a8b-684e-4ebf-8236-4039954cea11</webElementGuid>
+      <webElementGuid>1610703b-494d-47a7-b41b-ee74b2d42eef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

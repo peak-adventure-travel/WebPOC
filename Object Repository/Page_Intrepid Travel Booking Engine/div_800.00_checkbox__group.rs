@@ -6,12 +6,12 @@
    <elementGuidId>65ceefc6-63f5-4d6c-958f-19cf242172d8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.checkbox__group</value>
+         <key>XPATH</key>
+         <value>//form[@id='transaction_form']/div/div/div/div/div/div/div/div[5]/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='services_form']/div/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div/div/div</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>dde98c17-3abc-46c6-a9ab-9a5df64cd3fa</webElementGuid>
+      <webElementGuid>f62910c2-484d-4b32-a45d-88dc1ff74fdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,18 +30,98 @@
       <name>class</name>
       <type>Main</type>
       <value>checkbox__group</value>
-      <webElementGuid>d46630c3-e658-4659-a4e8-ad17eaee31e2</webElementGuid>
+      <webElementGuid>8d436809-9950-4343-a695-1ca201dd7aa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;services_form&quot;)/div[@class=&quot;l-container&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--8-col l-grid__cell--8-col-tablet&quot;]/div[@class=&quot;card card--large u-margin-bottom--2&quot;]/div[@class=&quot;card__content&quot;]/div[@class=&quot;card__text&quot;]/div[@class=&quot;card__section card__section--content&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--12-col u-margin-bottom--1&quot;]/div[@class=&quot;additional-services&quot;]/div[@class=&quot;additional-services__single-supplement&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--6-col&quot;]/div[@class=&quot;checkbox&quot;]/div[@class=&quot;checkbox__group&quot;]</value>
-      <webElementGuid>a505ddfd-7117-4604-b144-c0d616c0df94</webElementGuid>
+      <value>id(&quot;transaction_form&quot;)/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--8-col l-grid__cell--order-2-tablet l-grid__cell--order-2-phone&quot;]/div[@class=&quot;card card--large&quot;]/div[@class=&quot;card__content&quot;]/div[@class=&quot;card__text&quot;]/div[@class=&quot;card__section card__section--content&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--12-col&quot;]/div[@class=&quot;checkbox&quot;]/div[@class=&quot;checkbox__group&quot;]</value>
+      <webElementGuid>3d977cb3-f8f9-42fb-8423-fbf9f31a3b7a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='transaction_form']/div/div/div/div/div/div/div/div[5]/div</value>
+      <webElementGuid>bfd44ba8-ce36-407a-bb5a-32daca9f2e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='essential trip information'])[1]/following::div[2]</value>
+      <webElementGuid>7fe6fae4-f6ca-4086-915e-52b5fac494b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I would like to receive offers and regular updates from Intrepid Travel via email'])[1]/preceding::div[1]</value>
+      <webElementGuid>ea0d8110-5f6b-40fd-8c32-c19611cd33df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total to pay'])[1]/preceding::div[1]</value>
+      <webElementGuid>bd159d86-06ad-451b-9c4b-a1144af4a8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div</value>
+      <webElementGuid>d21ef098-d59f-4dfa-bb9d-d7ee6aae542a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='transaction_form']/div/div/div/div/div/div/div/div[4]/div</value>
+      <webElementGuid>fe8d5599-3d7a-4aa8-9a10-ab0c699d3cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='privacy statement'])[1]/following::div[2]</value>
+      <webElementGuid>8aa78154-efe9-4b74-902e-e2fee7d68f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='terms and conditions'])[1]/following::div[2]</value>
+      <webElementGuid>34dd46cd-d2a8-4712-9fdf-6113d9ab6608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='essential trip information'])[1]/preceding::div[1]</value>
+      <webElementGuid>8a98dc29-e25e-4dc3-b4e3-91b9ee2826fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]/div</value>
+      <webElementGuid>b963b5ad-74d7-4071-a65c-561cd5ed10cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

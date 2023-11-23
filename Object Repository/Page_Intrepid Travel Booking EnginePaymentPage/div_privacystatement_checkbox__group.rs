@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_privacystatement_checkbox__group</name>
+   <tag></tag>
+   <elementGuidId>51b560e1-d080-40e6-8da6-62863de06ebc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='transaction_form']/div/div/div/div/div/div/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b352118-fc1c-4a94-bdb5-fb3aeae340d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox__group</value>
+      <webElementGuid>1b620b47-3afc-43fa-9b80-54c23cca785f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transaction_form&quot;)/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--8-col l-grid__cell--order-2-tablet l-grid__cell--order-2-phone&quot;]/div[@class=&quot;card card--large&quot;]/div[@class=&quot;card__content&quot;]/div[@class=&quot;card__text&quot;]/div[@class=&quot;card__section card__section--content&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--12-col&quot;]/div[@class=&quot;checkbox&quot;]/div[@class=&quot;checkbox__group&quot;]</value>
+      <webElementGuid>a24d7f98-59fd-4481-b785-379ed8a597a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='transaction_form']/div/div/div/div/div/div/div/div[4]/div</value>
+      <webElementGuid>1df2d470-d863-4bf1-9d25-1562c1d87ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='privacy statement'])[1]/following::div[2]</value>
+      <webElementGuid>47c8cf5e-dcfe-48eb-86f5-1526d267e694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='terms and conditions'])[1]/following::div[2]</value>
+      <webElementGuid>c46f5e6b-e58c-49b6-b6ce-3fc2b6390f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='essential trip information'])[1]/preceding::div[1]</value>
+      <webElementGuid>a31814f8-dc25-47ff-a74d-2ad2ac8bef11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]/div</value>
+      <webElementGuid>845b79e7-1c97-46c2-9038-48d7832c748b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

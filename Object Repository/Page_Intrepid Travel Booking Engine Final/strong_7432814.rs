@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_7432814</name>
+   <tag></tag>
+   <elementGuidId>8e48f44d-df2a-4160-911b-ddd4c785a6ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/div/div/div/div/p/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong.text--primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>f6c3d7c0-a9ce-49d1-b18f-d69dba0638ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text--primary</value>
+      <webElementGuid>b2840976-3cd9-4a46-9200-b64c91b6ce50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 7432814 </value>
+      <webElementGuid>c2587f84-4e2d-4622-8488-1b7d8d4b837d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[@class=&quot;l-main&quot;]/div[@class=&quot;l-container&quot;]/div[@class=&quot;l-grid&quot;]/div[@class=&quot;l-grid__cell l-grid__cell--4-col l-grid__cell--6-col-desktop&quot;]/div[@class=&quot;u-text-align--center&quot;]/p[1]/strong[@class=&quot;text--primary&quot;]</value>
+      <webElementGuid>aa08e4c9-f9bd-4dd2-8ef8-449a2fe54a2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/div/div/div/div/p/strong</value>
+      <webElementGuid>0ace8b10-9454-4aed-ac15-63dbd664c0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='your booking is confirmed!'])[1]/following::strong[1]</value>
+      <webElementGuid>537f4d93-40c2-4496-a6c9-ad2861ce4090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ultimate Galapagos: Central Islands (Grand Daphne) Lower deck twin'])[1]/preceding::strong[1]</value>
+      <webElementGuid>ad8d21bb-dc3f-4ee8-8017-6e739737bc10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trip'])[1]/preceding::strong[1]</value>
+      <webElementGuid>80bf261f-dcca-40ea-86ea-553e6f534f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='7432814']/parent::*</value>
+      <webElementGuid>2d4db4c6-a7d9-461d-bf40-1c9a771a3d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>2bc6a1d7-2d95-4469-bd06-f31437077e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = ' 7432814 ' or . = ' 7432814 ')]</value>
+      <webElementGuid>5550a247-28a7-4d9b-b3af-5d2ca594b2ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

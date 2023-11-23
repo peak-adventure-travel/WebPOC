@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Login and Agent Login</name>
+   <name>SearchAndBook</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -37,5 +37,32 @@
          <value></value>
          <variableId>31ce5ace-8cdd-44eb-b4ed-cb9cf6f9b040</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5531578a-3db2-47f0-93cd-ce7b1a9b4736</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POC/Automation POC TC2</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>37671c9f-8179-49a7-b305-87b3c54d8606</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>686d1d01-12ca-4f49-b340-ee920692db0a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POC/Automation POC TC8</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e75e3667-db79-46ec-8abd-3ae25b12df9c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POC/Automation POC TC4</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
