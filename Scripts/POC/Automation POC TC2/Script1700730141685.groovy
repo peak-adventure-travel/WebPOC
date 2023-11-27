@@ -19,5 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('POC/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('POC/AgentLogin'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('POC/AgentLogin'), [:], FailureHandling.STOP_ON_FAILURE) 
 
+//add search and booking section here
