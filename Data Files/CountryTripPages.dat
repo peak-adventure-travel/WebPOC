@@ -7,11 +7,11 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>02f96028-b399-480e-8446-11fd583121ef</dataFileGUID>
-   <dataSourceUrl>C:\Users\ruchira.weerakkody\git\WebPOC\Data Files\TripInfo.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\sachin.indradasa\Pictures\Saved Pictures\WebPOC\Data Files\Country.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Country&amp;Trip</sheetName>
+   <sheetName>Sheet1</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

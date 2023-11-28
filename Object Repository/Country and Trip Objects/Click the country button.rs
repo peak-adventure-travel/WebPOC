@@ -6,6 +6,10 @@
    <elementGuidId>e26556a0-3f0a-40bd-b72f-d8a5123e0e90</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>(//a[contains(text(),'${Country}')])[1]</value>
       </entry>
@@ -18,6 +22,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//a[contains(text(),'${Country}')])[1]</value>
-      <webElementGuid>514713fb-507b-4a5a-aeac-21e9dabac683</webElementGuid>
+      <webElementGuid>d2025c72-e5f0-49cb-a5a5-31918bbdf2e0</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -6,15 +6,15 @@
    <elementGuidId>09c5b361-ed29-450a-807e-7df529eb410c</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>(//button[contains(text(),'${Region}')])[1]</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>.//*[text()='Asia']</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -22,6 +22,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//button[contains(text(),'${Region}')])[1]</value>
-      <webElementGuid>0000d0f0-094a-494c-b455-8d52737ed653</webElementGuid>
+      <webElementGuid>706ac180-253e-48d9-a8b8-de658986e8cf</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

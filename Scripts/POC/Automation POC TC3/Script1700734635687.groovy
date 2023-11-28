@@ -17,6 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('POC/Country Pages and Trip Pages'), [('TouRegion') : 'Africa', ('Region') : 'Africa', ('Country') : 'Morocco'
-        , ('State') : 'NA', ('Location') : 'NA'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('POC/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Country and Trip Objects/Click the destination button'))
+
+WebUI.delay(10)
+
+String region = Region
+
+String country = Country
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Country and Trip Objects/Click the region button', [('Region') : region]))
+
+WebUI.delay(4)
+
+WebUI.click(findTestObject('Country and Trip Objects/Click the country button', [('Country') : country]))
+
+String country_header = Country_Header
+
+WebUI.getText(findTestObject('Country and Trip Objects/Verify country header'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Country and Trip Objects/Verify country header', [('variable') : Country_Header]),
+	Country_Header)
+
+WebUI.closeBrowser()

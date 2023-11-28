@@ -5,4 +5,43 @@
    <tag>UAT,DEV</tag>
    <comment></comment>
    <testCaseGuid>2a8cae5a-3d25-4119-b289-49897c5cbd59</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>988d9a11-959d-4037-8720-eedb94c05f78</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>514a4234-6508-4697-9925-44ab6ce596d5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5228e7ee-f795-497c-96a5-848e7f91d64e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>988d9a11-959d-4037-8720-eedb94c05f78</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>514a4234-6508-4697-9925-44ab6ce596d5</id>
+      <masked>false</masked>
+      <name>Country</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5228e7ee-f795-497c-96a5-848e7f91d64e</id>
+      <masked>false</masked>
+      <name>Country_Header</name>
+   </variable>
 </TestCaseEntity>
