@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sri Lanka Tours  Holidays_banner__content</name>
+   <tag></tag>
+   <elementGuidId>63440a16-7d22-4fad-86aa-e21d0ee124c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/main/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.banner__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ecf3029-d6e5-4150-952a-9a317bfb581f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>banner__content</value>
+      <webElementGuid>994d43c4-b777-4151-a444-19a7f35b5c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>banner__content</value>
+      <webElementGuid>41544b49-a2f9-4750-8261-1da34164c405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[1]/main[1]/div[@class=&quot;page-banner&quot;]/div[@class=&quot;banner banner--xs-96-25 banner--sm-96-25 banner--md-96-25 banner--lg-96-25 banner--xl-96-25&quot;]/div[@class=&quot;banner__content&quot;]</value>
+      <webElementGuid>ef4e8fe9-9f33-4b1b-b3e1-d751361634dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/main/div/div/div[2]</value>
+      <webElementGuid>7632de0d-f9b6-461c-ae6f-46d4edb7d94b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div[2]</value>
+      <webElementGuid>8f6018c6-fc40-4f38-9f64-f864d1ae991e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

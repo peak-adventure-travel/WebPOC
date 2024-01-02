@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Asia</name>
+   <name>button_Africa</name>
    <tag></tag>
-   <elementGuidId>86dc4f03-78c4-45a8-85e4-caf2d6eba8d5</elementGuidId>
+   <elementGuidId>d297e0bd-ad17-4616-b23d-6ff651ebabfe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='header-bar']/div[2]/div/nav/div/nav/div/div/ul/li[2]/button</value>
+         <value>//div[@id='header-bar']/div[2]/div/nav/div/nav/div/div/ul/li/button</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>button.mega-menu__level-2-link.mega-menu__level-2-link--active</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3d381269-47d8-463e-8c1f-044ef0df6493</webElementGuid>
+      <webElementGuid>91b6d6eb-e0e7-45fb-8c30-f5bbd095a780</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>data-cy</name>
       <type>Main</type>
       <value>mega-menu__level-2-link</value>
-      <webElementGuid>c0dfe856-55ef-4aa4-957f-f6be72f5127f</webElementGuid>
+      <webElementGuid>7a52db73-d96a-4f91-8f4d-05f56f1404b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mega-menu__level-2-link</value>
-      <webElementGuid>4edff65d-26e2-4b0f-8b45-3cfa666edd71</webElementGuid>
+      <value>mega-menu__level-2-link mega-menu__level-2-link--active</value>
+      <webElementGuid>d766e880-2b92-42e4-b1fb-94a10e2b6468</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,73 +46,73 @@
       <name>text</name>
       <type>Main</type>
       <value>
-            Asia
+            Africa
                 </value>
-      <webElementGuid>a50b1d56-22ec-4206-bb0f-c18476e50e38</webElementGuid>
+      <webElementGuid>5aaa0429-1a60-4b92-a596-2d03890cb27b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;header-bar&quot;)/div[@class=&quot;header-bar__bottom u-display--none md:u-display--block&quot;]/div[@class=&quot;header-bar__container header-bar__container--flex&quot;]/nav[@class=&quot;header-bar__bottom-left&quot;]/div[1]/nav[@class=&quot;mega-menu&quot;]/div[@class=&quot;mega-menu__level-1 mega-menu__level-1--visible&quot;]/div[@class=&quot;mega-menu__level-2&quot;]/ul[@class=&quot;mega-menu__level-2-items&quot;]/li[@class=&quot;mega-menu__level-2-item&quot;]/button[@class=&quot;mega-menu__level-2-link&quot;]</value>
-      <webElementGuid>a63fb22a-7db5-4b11-a57b-ff1a9252a2df</webElementGuid>
+      <value>id(&quot;header-bar&quot;)/div[@class=&quot;header-bar__bottom u-display--none md:u-display--block&quot;]/div[@class=&quot;header-bar__container header-bar__container--flex&quot;]/nav[@class=&quot;header-bar__bottom-left&quot;]/div[1]/nav[@class=&quot;mega-menu&quot;]/div[@class=&quot;mega-menu__level-1 mega-menu__level-1--visible&quot;]/div[@class=&quot;mega-menu__level-2&quot;]/ul[@class=&quot;mega-menu__level-2-items&quot;]/li[@class=&quot;mega-menu__level-2-item&quot;]/button[@class=&quot;mega-menu__level-2-link mega-menu__level-2-link--active&quot;]</value>
+      <webElementGuid>ac454cd4-2d25-4fb0-9839-86fc3a740f99</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='header-bar']/div[2]/div/nav/div/nav/div/div/ul/li[2]/button</value>
-      <webElementGuid>836c1627-265a-4134-8a4f-36804853487a</webElementGuid>
+      <value>//div[@id='header-bar']/div[2]/div/nav/div/nav/div/div/ul/li/button</value>
+      <webElementGuid>9bb94334-a39f-4266-961f-b5c9d18d9721</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zimbabwe'])[1]/following::button[1]</value>
-      <webElementGuid>c0d9cbbd-598d-4768-8998-6e0e965aec25</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purpose'])[1]/following::button[1]</value>
+      <webElementGuid>2d6e4597-70c2-4050-b60d-670f2bc2f28a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zanzibar'])[1]/following::button[1]</value>
-      <webElementGuid>e87fc71b-c091-40e9-a20b-e13cd51dbd89</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deals'])[1]/following::button[2]</value>
+      <webElementGuid>47eecb09-d779-4aeb-a4ca-6118117efb3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asia'])[2]/preceding::button[1]</value>
-      <webElementGuid>acf40fdc-7b5f-4bd2-adff-d65058a49148</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Africa'])[2]/preceding::button[1]</value>
+      <webElementGuid>46d27a3b-b8ff-4db8-bacb-6a2fcdaad7a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Armenia'])[1]/preceding::button[1]</value>
-      <webElementGuid>c44ed210-3373-4f55-87ee-b0b577c70f65</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Botswana'])[1]/preceding::button[1]</value>
+      <webElementGuid>559ff179-4b26-4a66-aa37-8433bd820b3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Asia']/parent::*</value>
-      <webElementGuid>9cd84477-44ac-4aa8-872e-9db36fdab62e</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Africa']/parent::*</value>
+      <webElementGuid>a32133eb-a19c-43af-a43a-2a3a0f66d648</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/ul/li[2]/button</value>
-      <webElementGuid>661e9ff5-7112-4345-a78f-e8aeb2e582d8</webElementGuid>
+      <value>//div/ul/li/button</value>
+      <webElementGuid>5bfa5149-e095-43c9-9cf7-9a0425ef79da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,10 +120,10 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = '
-            Asia
+            Africa
                 ' or . = '
-            Asia
+            Africa
                 ')]</value>
-      <webElementGuid>5f37438b-f0da-4be2-baf2-28db17723005</webElementGuid>
+      <webElementGuid>f0c6329f-d571-46b5-aa4f-23d06503168e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

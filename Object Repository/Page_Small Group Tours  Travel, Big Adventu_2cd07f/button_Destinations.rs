@@ -6,12 +6,12 @@
    <elementGuidId>b718328f-760f-4dc5-95eb-91e4ded37c6f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#header-bar__navigation-link-1</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='header-bar__navigation-link-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#header-bar__navigation-link-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>36df18fc-e03e-4776-a671-eef8b27203ab</webElementGuid>
+      <webElementGuid>9cf0aed4-d8c5-4b12-a275-8b1a3cd2f4e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/top-destinations</value>
-      <webElementGuid>2bf59be8-d063-491b-831d-8a3c41b83a46</webElementGuid>
+      <webElementGuid>4f95b0cb-e233-49cc-b523-bb6c4b4f08d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>header-bar__navigation-link-1</value>
-      <webElementGuid>146f5d9c-65e3-4ea8-b89d-eedc3b135729</webElementGuid>
+      <webElementGuid>49915d0e-5f08-4f2f-8c2f-9a2944b3f699</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-cy</name>
       <type>Main</type>
       <value>header-bar-menu-item</value>
-      <webElementGuid>1ebe3f9e-8cca-404b-80ea-33d81f138e3f</webElementGuid>
+      <webElementGuid>e908b3d1-8ae0-4595-a17a-b5414cba5634</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>header-bar__navigation-link</value>
-      <webElementGuid>8aafdba6-98a6-470b-bf74-29e48ee4f75f</webElementGuid>
+      <webElementGuid>2dac641b-99e2-4f15-98af-a029012a0dd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <value>
                 Destinations
               </value>
-      <webElementGuid>4ea37d81-1ffb-4b03-96a3-1bfe83dcb58a</webElementGuid>
+      <webElementGuid>196cb2e1-145a-44a1-86a8-f5c49c2d15ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header-bar__navigation-link-1&quot;)</value>
-      <webElementGuid>9390f67c-5766-45ec-a6cf-8e93d7370470</webElementGuid>
+      <webElementGuid>53b82e1a-ed48-49ff-8389-beb680b4b729</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='header-bar__navigation-link-1']</value>
-      <webElementGuid>214049c1-1742-4871-8ca9-b0f1eab8f61a</webElementGuid>
+      <webElementGuid>37bf0927-fb1e-4396-a489-c25ca58e8205</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header-bar']/div[2]/div/nav/ul/li[2]/button</value>
-      <webElementGuid>d9ee15da-1999-4ae3-bf54-d8d48d84ea90</webElementGuid>
+      <webElementGuid>dc52c86a-124a-4ea7-9eca-f601da4ca0d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Booking'])[1]/following::button[2]</value>
-      <webElementGuid>b32cd5b1-dcc5-4524-bdde-29639694c9a0</webElementGuid>
+      <webElementGuid>9050a69c-6a93-45eb-8841-2184b1c61d38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wishlist'])[1]/following::button[2]</value>
-      <webElementGuid>5c54d521-aae3-4376-b10c-0be7a5da0ba6</webElementGuid>
+      <webElementGuid>630c0438-045c-46a3-9617-2b453a3f102e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ways to travel'])[1]/preceding::button[1]</value>
-      <webElementGuid>90c4b410-8ba8-4595-861f-55f486e60679</webElementGuid>
+      <webElementGuid>55e595a4-6048-4825-a80b-bab8c10dc575</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Deals'])[1]/preceding::button[2]</value>
-      <webElementGuid>22b30ce2-f10e-4e88-bd83-71ecc748c1aa</webElementGuid>
+      <webElementGuid>351b96f9-2a75-44e7-b992-8f627b720e39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Destinations']/parent::*</value>
-      <webElementGuid>c53a828e-9bc8-4197-843a-2be84192cafe</webElementGuid>
+      <webElementGuid>bc06c5b3-986c-4432-9127-1e8897a0aada</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/button</value>
-      <webElementGuid>9219b443-be4e-40e7-8d35-2fcf0b38b9cd</webElementGuid>
+      <webElementGuid>a5563596-4d3b-4334-934c-c9cc4a04f9c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,6 +148,6 @@
               ' or . = '
                 Destinations
               ')]</value>
-      <webElementGuid>4da8972b-c1c0-4e7f-94a4-840c38612b30</webElementGuid>
+      <webElementGuid>fd8ebe52-b552-489b-87f6-7cfd9313c048</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

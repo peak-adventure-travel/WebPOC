@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>02f96028-b399-480e-8446-11fd583121ef</dataFileGUID>
-   <dataSourceUrl>C:\Users\sachin.indradasa\Pictures\Saved Pictures\WebPOC\Data Files\Country.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\ruchira.weerakkody\git\WebPOCNew\Data Files\Country.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
