@@ -1,0 +1,81 @@
+Warning: NLS missing message: ConsoleMain_MSG_DEVOPS_LICENSE_COMPATIBILITY in: com.kms.katalon.execution.constants.executionMessages
+Warning: NLS missing message: ConsoleMain_MSG_NON_DEVOPS_LICENSE_COMPATIBLITY in: com.kms.katalon.execution.constants.executionMessages
+Activating...
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber pw03x0gk
+osDependentUsername ruchira.weerakkody
+End appending additional signatures 072da2db-7f85-4297-9d8d-32a1b0c35d58__ruchira.weerakkody
+End getting machine ID on Windows 0d54df86483063f9f19e3ce852e5789b
+Start activating offline...
+Search for valid offline licenses in folder: C:\Users\ruchira.weerakkody\.katalon\license
+The number of valid offline licenses: 0
+Start activating online...
+
+Tue Jan 09 12:19:04 IST 2024
+java.lang.NullPointerException: Cannot invoke "com.kms.katalon.license.models.CombinedAuthenticationToken.getAdminToken()" because "combinedToken" is null
+	at com.kms.katalon.integration.analytics.providers.BaseTestOpsService.requestAdminToken(BaseTestOpsService.java:547)
+	at com.kms.katalon.integration.analytics.providers.BaseTestOpsService.requestAdminToken(BaseTestOpsService.java:527)
+	at com.kms.katalon.integration.analytics.providers.BaseTestOpsService.requestAdminToken(BaseTestOpsService.java:523)
+	at com.kms.katalon.integration.analytics.providers.TestOpsFeatureActivatorImpl.activate(TestOpsFeatureActivatorImpl.java:56)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.getLicenseFromTestOps(ActivationInfoCollector.java:629)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.activate(ActivationInfoCollector.java:444)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.checkAndMarkActivatedForConsoleMode(ActivationInfoCollector.java:264)
+	at com.kms.katalon.console.handlers.ActivationHandler.activateWithConsoleArgOptions(ActivationHandler.java:175)
+	at com.kms.katalon.console.handlers.ActivationHandler.activationWithTestOps(ActivationHandler.java:213)
+	at com.kms.katalon.console.handlers.ActivationHandler.activate(ActivationHandler.java:258)
+	at com.kms.katalon.console.application.ConsoleMain.launch(ConsoleMain.java:126)
+	at com.kms.katalon.console.application.ConsoleApplicationStarter.start(ConsoleApplicationStarter.java:36)
+	at com.kms.katalon.application.Application.runConsole(Application.java:137)
+	at com.kms.katalon.application.Application.start(Application.java:98)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+
+
+Tue Jan 09 12:19:04 IST 2024
+Activation collection is failed
+java.lang.NullPointerException: Cannot invoke "com.kms.katalon.license.models.CombinedAuthenticationToken.getAdminToken()" because "combinedToken" is null
+	at com.kms.katalon.integration.analytics.providers.BaseTestOpsService.requestAdminToken(BaseTestOpsService.java:547)
+	at com.kms.katalon.integration.analytics.providers.BaseTestOpsService.requestAdminToken(BaseTestOpsService.java:527)
+	at com.kms.katalon.integration.analytics.providers.BaseTestOpsService.requestAdminToken(BaseTestOpsService.java:523)
+	at com.kms.katalon.integration.analytics.providers.TestOpsFeatureActivatorImpl.activate(TestOpsFeatureActivatorImpl.java:56)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.getLicenseFromTestOps(ActivationInfoCollector.java:629)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.activate(ActivationInfoCollector.java:444)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.checkAndMarkActivatedForConsoleMode(ActivationInfoCollector.java:264)
+	at com.kms.katalon.console.handlers.ActivationHandler.activateWithConsoleArgOptions(ActivationHandler.java:175)
+	at com.kms.katalon.console.handlers.ActivationHandler.activationWithTestOps(ActivationHandler.java:213)
+	at com.kms.katalon.console.handlers.ActivationHandler.activate(ActivationHandler.java:258)
+	at com.kms.katalon.console.application.ConsoleMain.launch(ConsoleMain.java:126)
+	at com.kms.katalon.console.application.ConsoleApplicationStarter.start(ConsoleApplicationStarter.java:36)
+	at com.kms.katalon.application.Application.runConsole(Application.java:137)
+	at com.kms.katalon.application.Application.start(Application.java:98)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+
+Start clean up session
+End clean up session
+Start release license task
+End release license task
+All launchers terminated
