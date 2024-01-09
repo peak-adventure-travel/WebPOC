@@ -6,12 +6,12 @@
    <elementGuidId>7062a932-4d9b-4b73-b8fd-baa572b4f22d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.find-trip__button-text</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='__layout']/div/main/div/div/div[2]/div/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.find-trip__button-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9d552bf3-d4ea-46a4-9ec9-c9fb46d91668</webElementGuid>
+      <webElementGuid>5237c9fd-b46d-41db-88d4-2eb46249f999</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>find-trip__button-text</value>
-      <webElementGuid>b54add06-4849-49f1-879a-d98c99a5c21a</webElementGuid>
+      <webElementGuid>dad052c9-4785-49ab-9a7a-af0d50dd5143</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>db65de6e-1ac6-442b-a348-d5554d7f6763</webElementGuid>
+      <webElementGuid>988f5d72-f070-4fd7-a3f0-7039fb3ea0f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__layout&quot;)/div[1]/main[1]/div[1]/div[@class=&quot;banner banner--xs-8-11 banner--sm-4-3 banner--md-7-3 banner--lg-7-3 banner--xl-7-3&quot;]/div[@class=&quot;banner__content&quot;]/div[@class=&quot;l-container u-height--full&quot;]/div[@class=&quot;home-banner&quot;]/div[@class=&quot;home-banner__content&quot;]/div[@class=&quot;find-trip&quot;]/button[@class=&quot;button find-trip__button button--special&quot;]/span[@class=&quot;find-trip__button-text&quot;]</value>
-      <webElementGuid>5262f02d-a656-428d-b95e-05c4333710dc</webElementGuid>
+      <webElementGuid>472ba635-6ce2-4736-9946-abbb8fff9e60</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__layout']/div/main/div/div/div[2]/div/div/div/div/button/span</value>
-      <webElementGuid>0d11a6ca-a623-4e1f-82cf-e255acdaea76</webElementGuid>
+      <webElementGuid>b14fed51-7027-4162-a325-2863b61d7aec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear date'])[1]/following::span[1]</value>
-      <webElementGuid>f4cc00d9-a66d-42c8-afcd-76ced1a3eff8</webElementGuid>
+      <webElementGuid>6d3c29e2-7711-42f2-b86b-3f62c7fe1828</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec'])[1]/following::span[12]</value>
-      <webElementGuid>9f09af85-3277-4d0b-b45a-54639e468f85</webElementGuid>
+      <webElementGuid>4ce3dcd9-9b1c-463a-b7e9-2064909712a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Creating positive change through the joy of travel'])[1]/preceding::span[1]</value>
-      <webElementGuid>62063776-2f32-4213-ab49-c594d60c4914</webElementGuid>
+      <webElementGuid>5bc0c60e-af9e-4cab-9296-982c717ca423</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ways to travel'])[4]/preceding::span[1]</value>
-      <webElementGuid>6129fcbe-529c-40db-a1d2-37707dd09c74</webElementGuid>
+      <webElementGuid>25657bf0-b48d-455c-b4e2-1c30b8f9a436</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
-      <webElementGuid>ccb44048-0cf3-4626-891a-69a407f20bdb</webElementGuid>
+      <webElementGuid>66a73653-16e6-4d43-93ea-752b6e26470b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/button/span</value>
-      <webElementGuid>58ec0467-e12b-4ee4-85e0-4162f38a71d5</webElementGuid>
+      <webElementGuid>4f9001da-3dfb-4c9e-855c-b7f975f15cb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Search' or . = 'Search')]</value>
-      <webElementGuid>11294f16-8d45-4d67-b088-5ccd37e3989c</webElementGuid>
+      <webElementGuid>6a532473-c7d5-4781-a1c8-ea3b427880b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>296b03c4-dc82-411f-97ac-246b2a31dbde</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/POC/Automation POC TC3</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
